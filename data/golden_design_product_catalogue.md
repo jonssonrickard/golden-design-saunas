@@ -2,18 +2,25 @@
 
 Sauna: 
 Full Spectrum "Reserve Edition" Infrared Sauna Near Zero EMF with Himalayan Salt Bar
+
 Capacity: 
 1-2
+
 Model: 
 GDI-8010-03
+
 Series: 
 GDI
+
 EMF: 
 Near Zero EMF
+
 Manual: 
 24d454dd-6a51-458a-8e95-a0d98f4855c2.pdf
+
 URL: 
 https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8010-03
+
 Description: 
 Product Category: Sauna
 
