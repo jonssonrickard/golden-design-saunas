@@ -8,7 +8,82 @@ EMF: Near Zero EMF
 Manual: 24d454dd-6a51-458a-8e95-a0d98f4855c2.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8010-03
 Description: 
-Sauna Type: Infrared Exterior dimensions (WDH): 41″ x 37″ x 75″ (roof overhang: add 5″) Interior dimensions (WDH): 36″ x 32″ x 68″ Capacity: Full 2 person capacity Heating Elements: 3 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) 2 Near Infrared Red Heat Emitters (Heating Elements) 1 Himalayan Salt Bar (Under the bench) Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System + Red light therapy Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze privacy tempered glass door Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Family Group: Golden Designs Full Spectrum Himalayan Salt Bar: 1 Himalayan Salt Bar (Under the bench) Door Handle: Black Finish Door Handle / Interior Towel Bar Shipping Details: Ships in 2 box(s)
+Product Category: Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Golden Designs Full Spectrum
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 41″
+Depth: 37″
+Height: 75″
+Note: Roof overhang adds 5″
+
+Interior Dimensions:
+Width: 36″
+Depth: 32″
+Height: 68″
+
+Wood Type:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+3 Carbon PureTech™ Near Zero EMF Heat Emitters / Heating Panels
+2 Near Infrared Red Heat Emitters / Heating Elements
+1 Himalayan Salt Bar under the bench
+
+Himalayan Salt Bar:
+Yes
+Quantity: 1
+Location: Under the bench
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+Red light therapy
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass:
+Bronze privacy tempered glass door
+
+Door Handle:
+Black finish door handle
+Interior towel bar
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 2 boxes
 
 Sauna: Full Spectrum "Reserve Edition" Infrared Sauna Near Zero EMF with Himalayan Salt Bar (2025 model)
 Capacity: 2
@@ -18,7 +93,76 @@ EMF: Near Zero EMF
 Manual: 9748051c-6d19-4b06-80ac-869c3061cf12.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8020-03
 Description: 
-Release year: 2025 Capacity: 2 Person capacity Exterior dimensions (WDH): 47″ x 41″ x 75″ (roof overhang: add 5″) Interior dimensions (WDH): 43″ x 36″ x 68″ Sound System: Bluetooth and MP3 auxiliary connection - Music function control on Touch Screen Control Panel, no physical radio Controls: Interior Touch Screen Control Panel Interior lighting: Interior chromotherapy lighting system with red light therapy features Exterior lighting: Exterior Ambient Lighting Material: Natural Reforested Canadian Hemlock wood construction Electrical service: 120V/15amp Straight-forward-assembly: Clasp together assembly Heaters: 3 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) 3 Near Infrared Red Heat Emitters (Heating Elements) Special feature: 1 Himalayan Salt Bar (Under the bench) Construction: Bronze privacy tempered glass door Includes: Roof vent Sauna weight: 350 lbs. Shipping weight: 420 lbs. Shipping: Ships in 3 boxes and includes free shipping. 
+Product Category:
+Sauna
+
+Release Year:
+2025
+
+Sauna Type:
+Infrared
+
+Capacity:
+2 person capacity
+
+Exterior Dimensions:
+Width: 47″
+Depth: 41″
+Height: 75″
+Note: Roof overhang adds 5″
+
+Interior Dimensions:
+Width: 43″
+Depth: 36″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+3 Carbon PureTech™ Near Zero EMF Heat Emitters / Heating Panels
+3 Near Infrared Red Heat Emitters / Heating Elements
+
+Special Feature:
+1 Himalayan Salt Bar under the bench
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Music function control on Touch Screen Control Panel
+No physical radio
+
+Controls:
+Interior Touch Screen Control Panel
+
+Interior Lighting:
+Interior chromotherapy lighting system
+Red light therapy features
+
+Exterior Lighting:
+Exterior Ambient Lighting
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Ventilation:
+Roof vent included
+
+Electrical Service:
+120V / 15 AMP
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+350 lbs
+
+Shipping Weight:
+420 lbs
+
+Shipping Details:
+Ships in 3 boxes
+Free shipping included
 
 Sauna: Reserve Edition PureTech™ Full Spectrum (2025 model) Infrared Sauna Near Zero EMF with Himalayan Salt Bar
 Capacity: 3
@@ -28,7 +172,71 @@ EMF: Near Zero EMF
 Manual: 7ac23146-374f-4fca-b217-a5e729868823.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8030-03
 Description: 
-Capacity: 3 Person capacity Sound system: Bluetooth and MP3 auxiliary connection Controls: Interior Touch Screen Control Panel Interior lighting: Oversize interior chromotherapy lighting system with red light therapy feature Exterior lighting: Exterior Ambient Lighting Natural Reforested Canadian Hemlock wood construction Straight-forward-assembly: Clasp together assembly Heaters: 3 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) 5 Near Infrared Red Heat Emitters (Heating Elements) Special features: 1 Himalayan Salt Bar (Under the bench) Construction: Bronze privacy tempered glass door Exhaust: Roof vent Exterior dimensions (WDH): 61″ x 41″ x 75″ (roof overhang: add 5″) Interior dimensions (WDH): 56″ x 36″ x 68″ Electrical service: 120V/20amp (consult a certified electrician to install 20 amp outlet and 20 amp breaker) Sauna weight: 390 lbs. Shipping weight: 505 lbs. Ships in 3 boxes
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions:
+Width: 61″
+Depth: 41″
+Height: 75″
+Note: Roof overhang adds 5″
+
+Interior Dimensions:
+Width: 56″
+Depth: 36″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+3 Carbon PureTech™ Near Zero EMF Heat Emitters / Heating Panels
+5 Near Infrared Red Heat Emitters / Heating Elements
+
+Special Feature:
+1 Himalayan Salt Bar under the bench
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+
+Controls:
+Interior Touch Screen Control Panel
+
+Interior Lighting:
+Oversize interior chromotherapy lighting system
+Red light therapy feature
+
+Exterior Lighting:
+Exterior Ambient Lighting
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Ventilation / Exhaust:
+Roof vent
+
+Electrical Service:
+120V / 20 AMP
+Requires certified electrician to install 20 AMP outlet and 20 AMP breaker
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+390 lbs
+
+Shipping Weight:
+505 lbs
+
+Shipping Details:
+Ships in 3 boxes
 
 Sauna: 8000 Reserve Series Full Spectrum PureTech™ FAR Infrared Sauna Near Zero EMF Corner Unit with Himalayan Salt Bar
 Capacity: 3
@@ -38,7 +246,78 @@ EMF: Near Zero EMF
 Manual: 390ebdc8-3281-410c-944b-e9a09010c152.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8035-03
 Description: 
-Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 7 Total Heaters, 7 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 2 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze privacy tempered glass door Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.)Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Family Group: Golden Designs Full Spectrum Himalayan Salt Bar: 1 Himalayan Salt Bar (Under the bench) Door Handle: Black Finish Door Handle / Interior Towel Bar Shipping Details: Ships in 3 box(s) Contact us for more details
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Golden Designs Full Spectrum
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+7 total heaters
+7 PureTech™ Near Zero EMF FAR IR Carbon Panels
+2 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Special Feature:
+1 Himalayan Salt Bar under the bench
+
+Himalayan Salt Bar:
+Yes
+Quantity: 1
+Location: Under the bench
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Door Handle:
+Black finish door handle
+Interior towel bar
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Additional Notes:
+Contact supplier for more details
 
 Sauna: 8000 Reserve Series PureTech™ Full Spectrum Infrared Sauna Near Zero EMF with Himalayan Salt Bar
 Capacity: 3
@@ -48,7 +327,79 @@ EMF: Near Zero EMF
 Manual: 6523d311-3165-4109-ae97-36f7ff14aa24.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8230-01
 Description: 
-Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 8 Total Heaters, 5 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 3 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze privacy tempered glass door Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.)(details coming soon) Use Location: Indoor Use Only Family Group: Golden Designs Full Spectrum Himalayan Salt Bar: 1 Himalayan Salt Bar (Under the bench) Door Handle: Black Finish Door Handle / Interior Towel Bar Shipping Details: Ships in 3 box(s) Contact us for more details
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Golden Designs Full Spectrum
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+8 total heaters
+5 PureTech™ Near Zero EMF FAR IR Carbon Panels
+3 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Special Feature:
+1 Himalayan Salt Bar under the bench
+
+Himalayan Salt Bar:
+Yes
+Quantity: 1
+Location: Under the bench
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Door Handle:
+Black finish door handle
+Interior towel bar
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Additional Notes:
+Details coming soon
+Contact supplier for more details
 
 Sauna: 8000 Reserve Series PureTech™ Full Spectrum Infrared Sauna Near Zero EMF with Himalayan Salt Bar
 Capacity: 6
@@ -58,7 +409,79 @@ EMF: Near Zero EMF
 Manual: 6237ae7b-8ba6-4f98-91e1-89e1d7b884ec.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8260-01
 Description: 
-Sauna Type: Infrared Capacity: Full 6 person capacity Electrical service: Dual x 120 V/15 AMP Non GFCI (Recommend Dedicated Outlet) (Please consult a certified electrician.) Heating Elements: 9 Total Heaters, 6 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 3 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze privacy tempered glass door (details coming soon)(details coming soon) Use Location: Indoor Use Only Family Group: Golden Designs Full Spectrum Himalayan Salt Bar: 2 Himalayan Salt Bar (Under the bench) Door Handle: Black Finish Door Handle / Interior Towel Bar Shipping Details: Ships in 3 box(s) Contact us for more details
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Golden Designs Full Spectrum
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 6 person capacity
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+9 total heaters
+6 PureTech™ Near Zero EMF FAR IR Carbon Panels
+3 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Special Feature:
+2 Himalayan Salt Bars under the bench
+
+Himalayan Salt Bar:
+Yes
+Quantity: 2
+Location: Under the bench
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Door Handle:
+Black finish door handle
+Interior towel bar
+
+Electrical Service:
+Dual 120V / 15 AMP
+Non-GFCI
+Dedicated outlet recommended
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Additional Notes:
+Details coming soon
+Contact supplier for more details
 
 Sauna: "Monaco" PureTech™ Infrared Sauna Near Zero EMF with 15” LCD Screen & Hemlock Wood
 Capacity: 6
@@ -68,7 +491,101 @@ EMF: Near Zero EMF
 Manual: https://goldendesignstorage.blob.core.windows.net/product/7e25cba9-8f06-43c0-8990-a2057d2a48f4.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-6996-01-elite
 Description: 
-Entertainment: FM/CD radio with MP3 auxiliary connection with 4 built in speakers, 15” LCD Monitor with DVD Player (smart screen function requires separate purchase of Amazon Firestick) Exterior dimensions (WDH): 73″ x 61″ x 79″ (roof overhang: add 6") Interior dimensions (WDH): 68″ x 57″ x 72″ Sauna Type: Infrared Capacity: Full 6 person capacity Heating Elements: 15 PureTech™ Ultra Low EMF (EMF under 3MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Canadian Hemlock wood Sound System: DVD Player with FM Radio Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass Electrical Service: Special Electical 2 separate dedicated 20 amp 120 volt outlets, two separate 20 amp breakers required Non GFCI dedicated receptacle and breaker. (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 5 box(s) • Box A: 75"" H x 73"" W x 5"" L | Weight: 132 lbs. • Box B: 79"" H x 59"" W x 9"" L | Weight: 143 lbs. • Box C: 74"" H x 67"" W x 8"" L | Weight: 187 lbs. • Box D: 68"" H x 20"" W x 18"" L | Weight: 165 lbs. • Box E: 67"" H x 15"" W x 2"" L | Weight: 143 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 6 person capacity
+
+Exterior Dimensions:
+Width: 73″
+Depth: 61″
+Height: 79″
+Note: Roof overhang adds 6″
+
+Interior Dimensions:
+Width: 68″
+Depth: 57″
+Height: 72″
+
+Material:
+Natural Canadian Hemlock wood
+
+Heating System:
+15 PureTech™ Ultra Low EMF FAR Infrared Carbon heating panels
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+Heating panels listed as Ultra Low EMF under 3MG when sitting 6 to 8 inches from heating panels
+
+Entertainment System:
+FM/CD radio
+MP3 auxiliary connection
+4 built-in speakers
+15″ LCD monitor
+DVD player
+Smart screen function requires separate purchase of Amazon Firestick
+
+Sound System:
+DVD player
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass:
+Bronze tinted tempered glass
+
+Electrical Service:
+2 separate dedicated 20 AMP / 120V outlets required
+2 separate 20 AMP breakers required
+Non-GFCI dedicated receptacle and breaker
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 5 boxes
+
+Box A:
+Dimensions: 75″ H x 73″ W x 5″ L
+Weight: 132 lbs
+
+Box B:
+Dimensions: 79″ H x 59″ W x 9″ L
+Weight: 143 lbs
+
+Box C:
+Dimensions: 74″ H x 67″ W x 8″ L
+Weight: 187 lbs
+
+Box D:
+Dimensions: 68″ H x 20″ W x 18″ L
+Weight: 165 lbs
+
+Box E:
+Dimensions: 67″ H x 15″ W x 2″ L
+Weight: 143 lbs
 
 Sauna: Dynamic "Catalonia" Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 8
@@ -78,7 +595,99 @@ EMF: Ultra Low EMF
 Manual: 141dbb02-8e0d-432b-9428-4140e7674c7f.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-6880-02-elite
 Description: 
-Newly updated 2024 Golden Designs Catalonia sauna Sauna Type: Infrared Capacity: Full 8-person capacity Heating Elements: 23 Dynamic PureTech™ Ultra Low EMF (EMF under 2MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: Bluetooth and MP3 auxiliary connection with built-in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Oversize Interior Chromotherapy Color Lighting System Exterior Accent Lighting: (no details available) Feature Glass: Bronze Tinted Tempered glass Electrical Service: Requires 1 individual 240V/30amp dedicated receptacles Use Location: Indoor Use Only Shipping Details: Ships in 9 box(s) • Box A: 83" H x 48" W x 10" L | Weight: 192 lbs. • Box B: 83" H x 44" W x 10" L | Weight: 176 lbs. • Box C: 83" H x 43" W x 8" L | Weight: 130 lbs. • Box D: 83" H x 39" W x 8" L | Weight: 117 lbs. • Box E: 89" H x 40" W x 9" L | Weight: 150 lbs. • Box F: 89" H x 40" W x 8" L | Weight: 159 lbs. • Box G: 34" H x 22" W x 20" L | Weight: 60 lbs. • Box H: 34" H x 22" W x 20" L | Weight: 60 lbs. • Box I - Ramp: 41" H x 37" W x 7" L | Weight: 31 lbs.
+Product Category:
+Sauna
+
+Product Name:
+Golden Designs Catalonia Sauna
+
+Release / Update Year:
+Newly updated 2024
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 8-person capacity
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+23 Dynamic PureTech™ Ultra Low EMF FAR Infrared Carbon heating panels
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+Heating panels listed as Ultra Low EMF under 2MG when sitting 6 to 8 inches from heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Oversize Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+No details available
+
+Glass:
+Bronze tinted tempered glass
+
+Electrical Service:
+Requires 1 individual 240V / 30 AMP dedicated receptacle
+
+Shipping Details:
+Ships in 9 boxes
+
+Box A:
+Dimensions: 83″ H x 48″ W x 10″ L
+Weight: 192 lbs
+
+Box B:
+Dimensions: 83″ H x 44″ W x 10″ L
+Weight: 176 lbs
+
+Box C:
+Dimensions: 83″ H x 43″ W x 8″ L
+Weight: 130 lbs
+
+Box D:
+Dimensions: 83″ H x 39″ W x 8″ L
+Weight: 117 lbs
+
+Box E:
+Dimensions: 89″ H x 40″ W x 9″ L
+Weight: 150 lbs
+
+Box F:
+Dimensions: 89″ H x 40″ W x 8″ L
+Weight: 159 lbs
+
+Box G:
+Dimensions: 34″ H x 22″ W x 20″ L
+Weight: 60 lbs
+
+Box H:
+Dimensions: 34″ H x 22″ W x 20″ L
+Weight: 60 lbs
+
+Box I:
+Item: Ramp
+Dimensions: 41″ H x 37″ W x 7″ L
+Weight: 31 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Near Zero EMF Corner Unit with Red Cedar Wood
 Capacity: 4
@@ -88,7 +697,90 @@ EMF: Near Zero EMF
 Manual: b186c990-ce01-470c-bfa5-b95d707d2bcc.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k406-01-zf-ced
 Description: 
-Exterior dimensions (WDH): 74" x 42" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 68" x 37" x 68" Sauna Type: Infrared Capacity: Full 4 person capacity Heating Elements: 9 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 2 under the bench and 2 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Family Group: Maxxus Red Cedar Near Zero EMF FAR Infrared Saunas Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 125 lbs. • Box B: 72"" H x 75"" W x 7"" L | Weight: 190 lbs. • Box Carton: Ship Dimensions | Weight: Ship Weight lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Maxxus Red Cedar Near Zero EMF FAR Infrared Saunas
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 4 person capacity
+
+Exterior Dimensions:
+Width: 74″
+Depth: 42″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 68″
+Depth: 37″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+9 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+2 heaters under the bench
+2 heaters on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 125 lbs
+
+Box B:
+Dimensions: 72″ H x 75″ W x 7″ L
+Weight: 190 lbs
+
+Box Carton:
+Dimensions: Not specified
+Weight: Not specified
 
 Sauna: Maxxus FAR Infrared Sauna Near Zero EMF with Hemlock Wood
 Capacity: 3
@@ -98,7 +790,90 @@ EMF: Near Zero EMF
 Manual: e6b3419c-b180-4a4b-a70b-74c70fed4732.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k306-01-zf
 Description: 
-Exterior dimensions (WDH): 64" x 44" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 58" x 39" x 68" Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 7 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 1 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Family Group: Maxxus Red Cedar Low EMF FAR Infrared Saunas Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 88 lbs. • Box B: 72"" H x 64"" W x 7"" L | Weight: 154 lbs. • Box C: 66"" H x 52"" W x 13"" L | Weight: 106 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Maxxus Red Cedar Low EMF FAR Infrared Saunas
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 64″
+Depth: 44″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 58″
+Depth: 39″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+7 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 88 lbs
+
+Box B:
+Dimensions: 72″ H x 64″ W x 7″ L
+Weight: 154 lbs
+
+Box C:
+Dimensions: 66″ H x 52″ W x 13″ L
+Weight: 106 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 4
@@ -108,7 +883,87 @@ EMF: Low EMF
 Manual: f28be698-92de-4eb8-9d23-c264bdcb40d6.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k406-01
 Description: 
-Exterior dimensions (WDH): 74" x 42" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 68" x 37" x 68" Sauna Type: Infrared Capacity: Full 4 person capacity Heating Elements: 9 Maxxus Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 2 under the bench and 2 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 125 lbs. • Box B: 72"" H x 75"" W x 7"" L | Weight: 190 lbs. • Box C: 72"" H x 52"" W x 13"" L | Weight: 135 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 4 person capacity
+
+Exterior Dimensions:
+Width: 74″
+Depth: 42″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 68″
+Depth: 37″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+9 Maxxus Low EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+2 heaters under the bench
+2 heaters on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 125 lbs
+
+Box B:
+Dimensions: 72″ H x 75″ W x 7″ L
+Weight: 190 lbs
+
+Box C:
+Dimensions: 72″ H x 52″ W x 13″ L
+Weight: 135 lbs
 
 Sauna: Maxxus "Chaumont Edition" FAR Infrared Sauna Near Zero EMF Corner Unit Hemlock Wood
 Capacity: 3
@@ -118,7 +973,81 @@ EMF: Near Zero EMF
 Manual: e919b9fc-0e46-4eca-afc7-db960c2a4b09.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k356-01-zf
 Description: 
-Exterior dimensions (WDH): 60" x 60" x 75" (roof overhang: 9.4") Interior dimensions (WDH): 56" x 56" Also available in Red Cedar wood Bluetooth Maximum temperature (infrared): 130-140° Why not hotter? Learn more Full 3 person capacity Exterior dimensions (WDH): 60" x 60" x 75" (roof overhang: 9.4") Interior dimensions (WDH): 56" x 56" x 68" Natural Canadian Hemlock construction Tempered glass door and 2 full length side windows Interior color therapy lighting 9 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Roof vent Interior LED control panel FM Radio with BT, MP3 auxiliary, SD and USB connection Electrical service: 110V/20amp dedicated receptacle (consult a certified electrician) Clasp together assembly Sauna weight: 380 lbs. Shipping weight: 488 lbs. Ships in 3 boxes
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 60″
+Depth: 60″
+Height: 75″
+Note: Roof overhang adds 9.4″
+
+Interior Dimensions:
+Width: 56″
+Depth: 56″
+Height: 68″
+
+Material:
+Natural Canadian Hemlock construction
+Also available in Red Cedar wood
+
+Heating System:
+9 Carbon PureTech™ Near Zero EMF Heat Emitters / Heating Panels
+
+Temperature Range:
+Maximum infrared temperature: 130°F–140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+SD connection
+USB connection
+
+Control Panels:
+Interior LED control panel
+
+Interior Lighting:
+Interior color therapy lighting
+
+Glass / Door:
+Tempered glass door
+2 full-length side windows
+
+Ventilation:
+Roof vent
+
+Electrical Service:
+110V / 20 AMP dedicated receptacle
+Certified electrician recommended
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+380 lbs
+
+Shipping Weight:
+488 lbs
+
+Shipping Details:
+Ships in 3 boxes
+
+Additional Notes:
+“Why not hotter? Learn more” text removed because it is marketing/navigation text, not product data
 
 Sauna: Maxxus FAR Infrared Sauna Low EMF with Red Cedar Wood
 Capacity: 3
@@ -128,7 +1057,87 @@ EMF: Low EMF
 Manual: 6b5806b7-20b8-4f6c-8238-69817b57d01f.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k306-01-ced
 Description: 
-Exterior dimensions (WDH): 64" x 44" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 58" x 39" x 68" Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 7 Maxxus Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 1 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 88 lbs. • Box B: 72"" H x 64"" W x 7"" L | Weight: 154 lbs. • Box C: 66"" H x 52"" W x 13"" L | Weight: 106 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 64″
+Depth: 44″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 58″
+Depth: 39″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+7 Maxxus Low EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 88 lbs
+
+Box B:
+Dimensions: 72″ H x 64″ W x 7″ L
+Weight: 154 lbs
+
+Box C:
+Dimensions: 66″ H x 52″ W x 13″ L
+Weight: 106 lbs
 
 Sauna: Maxxus Full Spectrum FAR Infrared Sauna Near Zero EMF with Red Cedar Wood
 Capacity: 2
@@ -138,7 +1147,79 @@ EMF: Near Zero EMF
 Manual: https://goldendesignstorage.blob.core.windows.net/product/744381e5-f78a-4a55-ac4c-0d9c09c9b9f5.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-m206-01-fs-ced
 Description: 
-Exterior dimensions (WDH): 50″ x 42″ x 75″ (roof overhang: add 5.9″) Interior dimensions (WDH): 45″ x 37 Sauna Type: Infrared Capacity: Full 2 person capacity Heating Elements: 6 Total Heaters, 4 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 2 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System + Red Light Therapy Feature Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Shipping Details: Ships in 2 box(s) • Box A: 72"" H x 50"" W x 13"" L | Weight: 181 lbs. • Box B: 52"" H x 50"" W x 13"" L | Weight: 88 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 50″
+Depth: 42″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 45″
+Depth: 37″
+Height: Not specified
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+6 total heaters
+4 PureTech™ Near Zero EMF FAR IR Carbon Panels
+2 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light therapy feature
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 2 boxes
+
+Box A:
+Dimensions: 72″ H x 50″ W x 13″ L
+Weight: 181 lbs
+
+Box B:
+Dimensions: 52″ H x 50″ W x 13″ L
+Weight: 88 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Low EMF Corner Unit with Red Cedar Wood
 Capacity: 3
@@ -148,7 +1229,85 @@ EMF: Low EMF
 Manual: 39583efe-59f6-4bfa-b640-a39231e822ad.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k356-01-ced
 Description: 
-Exterior dimensions (WDH): 60" x 60" x 75" (roof overhang: 9.4") Interior dimensions (WDH): 56" x 56" x 68" Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 9 Maxxus Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 3 on each of the 2 rear walls, 2 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panel Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 60"" W x 7"" L | Weight: 150 lbs. • Box B: 72"" H x 59"" W x 8"" L | Weight: 128 lbs. • Box C: 63"" H x 63"" W x 13"" L | Weight: 141 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 60″
+Depth: 60″
+Height: 75″
+Note: Roof overhang adds 9.4″
+
+Interior Dimensions:
+Width: 56″
+Depth: 56″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+9 Maxxus Low EMF FAR Infrared Carbon heating panels
+3 heaters on each of the 2 rear walls
+2 heaters under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 60″ W x 7″ L
+Weight: 150 lbs
+
+Box B:
+Dimensions: 72″ H x 59″ W x 8″ L
+Weight: 128 lbs
+
+Box C:
+Dimensions: 63″ H x 63″ W x 13″ L
+Weight: 141 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Near Zero EMF Corner Unit with Hemlock Wood
 Capacity: 4
@@ -158,7 +1317,87 @@ EMF: Near Zero EMF
 Manual: f28be698-92de-4eb8-9d23-c264bdcb40d6.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k406-01-zf
 Description: 
-Exterior dimensions (WDH): 74" x 42" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 68" x 37" x 68" Sauna Type: Infrared Capacity: Full 4 person capacity Heating Elements: 9 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 2 under the bench and 2 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 125 lbs. • Box B: 72"" H x 75"" W x 7"" L | Weight: 190 lbs. • Box C: 72"" H x 52"" W x 13"" L | Weight: 135 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 4 person capacity
+
+Exterior Dimensions:
+Width: 74″
+Depth: 42″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 68″
+Depth: 37″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+9 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+2 heaters under the bench
+2 heaters on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 125 lbs
+
+Box B:
+Dimensions: 72″ H x 75″ W x 7″ L
+Weight: 190 lbs
+
+Box C:
+Dimensions: 72″ H x 52″ W x 13″ L
+Weight: 135 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Near Zero EMF with Red Cedar Wood
 Capacity: 3
@@ -168,7 +1407,84 @@ EMF: Near Zero EMF
 Manual: https://cdn.shopify.com/s/files/1/0617/6856/4933/files/Owner_s_Manual_MX-K206-01_MX-K306-01_MX-K406-01_July_2022_2.pdf?v=1657557244
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k306-01-zf-ced
 Description: 
-Sauna Type: Infrared Capacity: Full 3 person capacity Interior dimensions (WDH): 58" x 39" x 68" Heating Elements: 7 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 1 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 88 lbs. • Box B: 72"" H x 64"" W x 7"" L | Weight: 154 lbs. • Box C: 66"" H x 52"" W x 13"" L | Weight: 106 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Interior Dimensions:
+Width: 58″
+Depth: 39″
+Height: 68″
+
+Exterior Dimensions:
+Not specified
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+7 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 88 lbs
+
+Box B:
+Dimensions: 72″ H x 64″ W x 7″ L
+Weight: 154 lbs
+
+Box C:
+Dimensions: 66″ H x 52″ W x 13″ L
+Weight: 106 lbs
 
 Sauna: Maxxus FAR Infrared Sauna Low EMF with Red Cedar Wood
 Capacity: 4
@@ -178,7 +1494,87 @@ EMF: Low EMF
 Manual: b186c990-ce01-470c-bfa5-b95d707d2bcc.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k406-01-ced
 Description: 
-Exterior dimensions (WDH): 74" x 42" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 68" x 37" x 68" Sauna Type: Infrared Capacity: Full 4 person capacity Heating Elements: 9 Maxxus Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 1 on each side wall 2 under the bench and 2 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 125 lbs. • Box B: 72"" H x 75"" W x 7"" L | Weight: 190 lbs. • Box C: 72"" H x 52"" W x 13"" L | Weight: 135 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 4 person capacity
+
+Exterior Dimensions:
+Width: 74″
+Depth: 42″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 68″
+Depth: 37″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+9 Maxxus Low EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+1 heater on each side wall
+2 heaters under the bench
+2 heaters on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 125 lbs
+
+Box B:
+Dimensions: 72″ H x 75″ W x 7″ L
+Weight: 190 lbs
+
+Box C:
+Dimensions: 72″ H x 52″ W x 13″ L
+Weight: 135 lbs
 
 Sauna: Maxxus "Chaumont Edition" FAR Infrared Sauna Near Zero EMF Corner Unit with Red Cedar Wood
 Capacity: 3
@@ -188,7 +1584,86 @@ EMF: Near Zero EMF
 Manual: 39583efe-59f6-4bfa-b640-a39231e822ad.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-k356-01-zf-ced
 Description: 
-Exterior dimensions (WDH): 60" x 60" x 75" (roof overhang: 9.4") Interior dimensions (WDH): 56" x 56" x 68"> Also available in Canadian Hemlock wood Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 9 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 3 on each of the 2 rear walls, 2 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior LED control panel Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 60"" W x 7"" L | Weight: 150 lbs. • Box B: 72"" H x 59"" W x 8"" L | Weight: 128 lbs. • Box C: 63"" H x 63"" W x 13"" L | Weight: 141 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 60″
+Depth: 60″
+Height: 75″
+Note: Roof overhang adds 9.4″
+
+Interior Dimensions:
+Width: 56″
+Depth: 56″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+Also available in Canadian Hemlock wood
+
+Heating System:
+9 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+3 heaters on each of the 2 rear walls
+2 heaters under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 60″ W x 7″ L
+Weight: 150 lbs
+
+Box B:
+Dimensions: 72″ H x 59″ W x 8″ L
+Weight: 128 lbs
+
+Box C:
+Dimensions: 63″ H x 63″ W x 13″ L
+Weight: 141 lbs
 
 Sauna: Maxxus Full Spectrum FAR Infrared Sauna Near Zero EMF with Red Cedar Wood
 Capacity: 3
@@ -198,7 +1673,84 @@ EMF: Near Zero EMF
 Manual: Owner_s_Manual_MX-M206-01_MX-M306-01_FS_July_2022.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-m306-01-fs-ced
 Description: 
-Exterior dimensions (WDH): 64" x 44" x 75" (roof overhang: add 5.9") Interior dimensions (WDH): 58" x 39" x 68" Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 7 Total Heaters, 4 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 3 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System + Red Light Therapy Feature Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 45"" W x 6"" L | Weight: 88 lbs. • Box B: 72"" H x 64"" W x 7"" L | Weight: 154 lbs. • Box C: 66"" H x 52"" W x 13"" L | Weight: 106 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 64″
+Depth: 44″
+Height: 75″
+Note: Roof overhang adds 5.9″
+
+Interior Dimensions:
+Width: 58″
+Depth: 39″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+7 total heaters
+4 PureTech™ Near Zero EMF FAR IR Carbon Panels
+3 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light therapy feature
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 45″ W x 6″ L
+Weight: 88 lbs
+
+Box B:
+Dimensions: 72″ H x 64″ W x 7″ L
+Weight: 154 lbs
+
+Box C:
+Dimensions: 66″ H x 52″ W x 13″ L
+Weight: 106 lbs
 
 Sauna: Maxxus Full Spectrum FAR Infrared Sauna Near Zero EMF with Red Cedar Wood
 Capacity: 3
@@ -208,7 +1760,84 @@ EMF: Near Zero EMF
 Manual: https://goldendesignstorage.blob.core.windows.net/product/306375b4-b680-4b8c-a3a8-4bf32550dc16.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-m356-01-fs-ced
 Description: 
-Exterior dimensions (WDH): 60" x 60" x 75" (roof overhang: 9.4") Interior dimensions (WDH): 56" x 56" x 68" Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 9 Total Heaters, 3 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 6 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior LED control panel Interior Lighting: Interior Chromotherapy Color Lighting System + Red Light Therapy Feature Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 72"" H x 60"" W x 7"" L | Weight: 150 lbs. • Box B: 72"" H x 59"" W x 8"" L | Weight: 128 lbs. • Box C: 63"" H x 63"" W x 13"" L | Weight: 141 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 60″
+Depth: 60″
+Height: 75″
+Note: Roof overhang adds 9.4″
+
+Interior Dimensions:
+Width: 56″
+Depth: 56″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+9 total heaters
+3 PureTech™ Near Zero EMF FAR IR Carbon Panels
+6 Near IR Elements
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light therapy feature
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 72″ H x 60″ W x 7″ L
+Weight: 150 lbs
+
+Box B:
+Dimensions: 72″ H x 59″ W x 8″ L
+Weight: 128 lbs
+
+Box C:
+Dimensions: 63″ H x 63″ W x 13″ L
+Weight: 141 lbs
 
 Sauna: Maxxus S-Line Infrared Sauna Low EMF with Canadian Hemlock
 Capacity: 1
@@ -218,7 +1847,72 @@ EMF: Low EMF
 Manual: 3168884d-3b57-46cf-976d-cbe601d604e2.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-s106-01
 Description: 
-Capacity: 1 person capacity Exterior dimensions (WDH): 39" x 36" x 75" Interior dimensions (WDH): 35" x 32" x 68" Material: Natural Canadian Reforested Hemlock wood construction Seating: Easy Removable Bench - Stretching, Exercise, or Yoga Door: Tempered glass door. Lighting: Interior chromotherapy lighting system Red Light Therapy Feature Heaters: 7 PureTech™ Low EMF Carbon Heat Emitters (Heating Panels on all 4 interior walls.) Roof vent Controls: Interior LED Control Panel Sound system: Bluetooth, MP3 auxiliary connection with built in speakers Electrical service: 120V/15amp plug & play Straight-forward-assembly: Clasp together assembly Sauna weight: 250 lbs. Shipping weight: 300 lbs. Ships in 2 boxes Model: MX-S106-01
+Product Category:
+Sauna
+
+Model:
+MX-S106-01
+
+Sauna Type:
+Infrared
+
+Capacity:
+1 person capacity
+
+Exterior Dimensions:
+Width: 39″
+Depth: 36″
+Height: 75″
+
+Interior Dimensions:
+Width: 35″
+Depth: 32″
+Height: 68″
+
+Material:
+Natural Canadian Reforested Hemlock wood construction
+
+Seating:
+Easy removable bench
+Suitable for stretching, exercise, or yoga
+
+Heating System:
+7 PureTech™ Low EMF Carbon Heat Emitters / Heating Panels
+Heating panels on all 4 interior walls
+
+Lighting:
+Interior chromotherapy lighting system
+Red light therapy feature
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Controls:
+Interior LED Control Panel
+
+Glass / Door:
+Tempered glass door
+
+Ventilation:
+Roof vent
+
+Electrical Service:
+120V / 15 AMP
+Plug and play
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+250 lbs
+
+Shipping Weight:
+300 lbs
+
+Shipping Details:
+Ships in 2 boxes
 
 Sauna: Maxxus "Seattle" FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
@@ -228,7 +1922,80 @@ EMF: Low EMF
 Manual: https://goldendesignstorage.blob.core.windows.net/product/d99c7c2c-28c4-4533-ab8e-de91feaa71de.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-j206-01
 Description: 
-Exterior dimensions (WDH): 48" x 42" x 75" Interior dimensions (WDH): 44" x 38" x 68" Sauna Type: Infrared Capacity: Full 2 person capacity Heating Elements: 6 Maxxus Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 2 on the rear wall 1 on each side wall 1 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior LED control panel Interior Chromotherapy Color Lighting System with Red Light Feature Exterior Accent Lighting: (no details available) Feature Glass: Clear Tempered glass door and with side Windows Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Shipping Details: Ships in 2 box(s) • Box A: 72"" H x 50"" W x 13"" L | Weight: 181 lbs. • Box B: 52"" H x 50"" W x 13"" L | Weight: 88 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 48″
+Depth: 42″
+Height: 75″
+
+Interior Dimensions:
+Width: 44″
+Depth: 38″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+6 Maxxus Low EMF FAR Infrared Carbon heating panels
+2 heaters on the rear wall
+1 heater on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light feature
+
+Exterior Lighting:
+No details available
+
+Glass / Door:
+Clear tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 2 boxes
+
+Box A:
+Dimensions: 72″ H x 50″ W x 13″ L
+Weight: 181 lbs
+
+Box B:
+Dimensions: 52″ H x 50″ W x 13″ L
+Weight: 88 lbs
 
 Sauna: Maxxus S-Line Infrared Sauna Ultra Low EMF with Canadian Hemlock
 Capacity: 1
@@ -238,7 +2005,72 @@ EMF: Ultra Low EMF
 Manual: 3168884d-3b57-46cf-976d-cbe601d604e2.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-s106-01-ulemf-elite
 Description: 
-Capacity: 1 person capacity Exterior dimensions (WDH): 39" x 36" x 75" Interior dimensions (WDH): 35" x 32" x 68" Material: Natural Canadian Reforested Hemlock wood construction Seating: Easy Removable Bench - Stretching, Exercise, or Yoga Door: Tempered glass door Lighting: Interior chromotherapy lighting system, Red Light Therapy Feature Heaters: 7 PureTech™ Ultra Low EMF 360 Carbon Heat Emitters (Heating Panels on all 4 interior walls.) Roof vent Controls: Interior LED Control Panel Sound system: Bluetooth, MP3 auxiliary connection with built in speakers Electrical service: 120V/15amp plug & play Straight-forward-assembly: Clasp together assembly Sauna weight: 250 lbs. Shipping weight: 300 lbs. Ships in 2 boxes Model: MX-S106-01-ULEMF (Elite)
+Product Category:
+Sauna
+
+Model:
+MX-S106-01-ULEMF (Elite)
+
+Sauna Type:
+Infrared
+
+Capacity:
+1 person capacity
+
+Exterior Dimensions:
+Width: 39″
+Depth: 36″
+Height: 75″
+
+Interior Dimensions:
+Width: 35″
+Depth: 32″
+Height: 68″
+
+Material:
+Natural Canadian Reforested Hemlock wood construction
+
+Seating:
+Easy removable bench
+Suitable for stretching, exercise, or yoga
+
+Heating System:
+7 PureTech™ Ultra Low EMF 360 Carbon Heat Emitters / Heating Panels
+Heating panels on all 4 interior walls
+
+Lighting:
+Interior chromotherapy lighting system
+Red light therapy feature
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Controls:
+Interior LED Control Panel
+
+Glass / Door:
+Tempered glass door
+
+Ventilation:
+Roof vent
+
+Electrical Service:
+120V / 15 AMP
+Plug and play
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+250 lbs
+
+Shipping Weight:
+300 lbs
+
+Shipping Details:
+Ships in 2 boxes
 
 Sauna: Maxxus "Seattle" FAR Infrared Sauna Near Zero EMF with Canadian Hemlock 
 Capacity: 2
@@ -248,7 +2080,93 @@ EMF: Near Zero EMF
 Manual: https://goldendesignstorage.blob.core.windows.net/product/d99c7c2c-28c4-4533-ab8e-de91feaa71de.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-mx-j206-01-zf
 Description: 
-Capacity: Full 2 person capacity Exterior dimensions (WDH): 48" x 42" x 75" Interior dimensions (WDH): 44" x 38" x 68" Material: Natural hemlock wood construction Door: Tempered glass door and 2 full length side windows Interior lighting: Interior chromotherapy lighting system (Red Light Therapy Feature Starting in 2024 Models) Heaters: 6 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR Infrared Carbon heating panels 2 on the rear wall 1 on each side wall 1 under the bench and 1 on the floor board Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Interior Chromotherapy Color Lighting System with NEW Red Light Therapy Feature Floor heaters: Standard with Floor - Feet Reflexology Heater Includes: Roof vent Controls: Interior LED Control Panel Sound system: Bluetooth and MP3 Aux connection with 2 dynamic speakers with pre-amp (no radio included or needed to play music from your MP3 device) Electrical service: 120V/15amp plug amp; play Straight-forward-assembly: Clasp together assembly Sauna weight: 275 lbs. Shipping weight: 415 lbs. Use Location: Indoor Use Only Shipping Details: Ships in 2 box(s) • Box A: 72"" H x 50"" W x 13"" L | Weight: 181 lbs. • Box B: 52"" H x 50"" W x 13"" L | Weight: 88 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 48″
+Depth: 42″
+Height: 75″
+
+Interior Dimensions:
+Width: 44″
+Depth: 38″
+Height: 68″
+
+Material:
+Natural hemlock wood construction
+
+Heating System:
+6 PureTech™ Near Zero EMF FAR Infrared Carbon heating panels
+2 heaters on the rear wall
+1 heater on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Floor Heaters:
+Standard floor heater included
+Feet reflexology heater included
+
+Temperature Range:
+Not specified
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red Light Therapy Feature
+Note: Red Light Therapy Feature starting in 2024 models
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+2 dynamic speakers with pre-amp
+No radio included or needed
+
+Controls:
+Interior LED Control Panel
+
+Glass / Door:
+Tempered glass door
+2 full-length side windows
+
+Ventilation:
+Roof vent included
+
+Electrical Service:
+120V / 15 AMP
+Plug and play
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+275 lbs
+
+Shipping Weight:
+415 lbs
+
+Shipping Details:
+Ships in 2 boxes
+
+Box A:
+Dimensions: 72″ H x 50″ W x 13″ L
+Weight: 181 lbs
+
+Box B:
+Dimensions: 52″ H x 50″ W x 13″ L
+Weight: 88 lbs
 
 Sauna: MX-LS2-01 Maxxus "Serenity" FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
