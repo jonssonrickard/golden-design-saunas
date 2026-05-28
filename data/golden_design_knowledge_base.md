@@ -4,10 +4,11 @@
 We are proud to be an authorized reseller & trusted representative of the Golden Designs sauna brand & an extension of Golden Designs Inc. Orders ship directly from the Golden Designs warehouse based in southern California and always include all the manufacturers' benefits such as warranties, free shipping & product support, and we only sell new and authentic Golden Designs Inc. branded products. However, this website operates independently by Highland Sources LLC and is intended for online sales purposes as an authorized reseller of Golden Designs Inc. products. When you order with us, we guarantee the quality of our products directly from the manufacturer, Golden Designs Inc., and we will be there to support any of your future needs. Our professional members are standing by to assist you in finding the right sauna for your family and home. Get in touch with us today!
 
 ## 2. Product Categories
-Infrared Sauna 
-Traditional Sauna
-Hybrid Sauna 
-Outdoor Sauna
+Infrared Saunas 
+Traditional Saunas
+Hybrid Saunas 
+Outdoor Saunas
+Barrel Saunas
 
 ## 3. Infrared Saunas
 Infrared saunas use invisible infrared heat. While you cannot see it, you can feel it. An infrared sauna heats up more rapidly compared to traditional saunas and has a bit of a different feel to it. These saunas are quite popular in modern times, considering the long existence of saunas, or more specifically, traditional saunas.
