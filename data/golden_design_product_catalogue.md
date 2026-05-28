@@ -4813,7 +4813,86 @@ EMF: Low EMF
 Manual: f317d356-649a-4280-95cd-e68932947b8f.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-dyn-6306-02
 Description: 
-Exterior dimensions (WDH): 60″ x 44″ x 75″ (roof overhang: add 4.4″) Interior dimensions (WDH): 56″ x 40″ x 68″ Sauna Type: Infrared Capacity: Full 3 person capacity Heating Elements: 9 Dynamic Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 3 on the rear wall 2 on each side wall 1 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: Exterior Accent Lighting Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: Special Electical 120 V/20 AMP Non GFCI dedicated receptacle and breaker (Not 220/240 V) (Please consult a certified electrician.) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 70" H x 64" W x 7" L | Weight: 181 lbs. • Box B: 70" H x 40" W x 9" L | Weight: 97 lbs. • Box C: 63" H x 46" W x 11" L | Weight: 139 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 60″
+Depth: 44″
+Height: 75″
+Note: Roof overhang adds 4.4″
+
+Interior Dimensions:
+Width: 56″
+Depth: 40″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+9 Dynamic Low EMF FAR Infrared Carbon heating panels
+3 heaters on the rear wall
+2 heaters on each side wall
+1 heater under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior Accent Lighting Feature
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 20 AMP
+Non-GFCI dedicated receptacle and breaker required
+Not 220V / 240V
+Certified electrician recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 70″ H x 64″ W x 7″ L
+Weight: 181 lbs
+
+Box B:
+Dimensions: 70″ H x 40″ W x 9″ L
+Weight: 97 lbs
+
+Box C:
+Dimensions: 63″ H x 46″ W x 11″ L
+Weight: 139 lbs
 
 Sauna: Dynamic "Heming" FAR Infrared Sauna Low EMF Corner Unit with Hemlock Wood
 Capacity: 2
@@ -4823,7 +4902,85 @@ EMF: Low EMF
 Manual: e2807ed8-9ab4-4abb-9474-af2514e3afb9.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-dyn-6225-02
 Description: 
-Exterior dimensions (WDH): 49" x 48" x 76" (roof overhang: add 2") Interior dimensions (WDH): 43" x 45" x 68" Sauna Type: Infrared Capacity: Full 2 person capacity Heating Elements: 7 Dynamic Low EMF (EMF between 6-10MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 2 on each of the 2 rear walls, 2 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Low EMF - (EMF between 6-10MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: FM radio with Bluetooth and MP3 auxiliary connection and built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: (no details available) Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 69"" H x 47"" W x 6"" L | Weight: 165 lbs. • Box B: 69"" H x 29"" W x 6"" L | Weight: 165 lbs. • Box C: 49"" H x 47"" W x 11"" L | Weight: 132 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 49″
+Depth: 48″
+Height: 76″
+Note: Roof overhang adds 2″
+
+Interior Dimensions:
+Width: 43″
+Depth: 45″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+7 Dynamic Low EMF FAR Infrared Carbon heating panels
+2 heaters on each of the 2 rear walls
+2 heaters under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Low EMF
+EMF between 6–10MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+FM radio
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+No details available
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 69″ H x 47″ W x 6″ L
+Weight: 165 lbs
+
+Box B:
+Dimensions: 69″ H x 29″ W x 6″ L
+Weight: 165 lbs
+
+Box C:
+Dimensions: 49″ H x 47″ W x 11″ L
+Weight: 132 lbs
 
 Sauna: Dynamic "Gracia" Infrared Sauna Full Spectrum with Canadian Hemlock
 Capacity: 1-2
@@ -4833,8 +4990,85 @@ EMF: Near Zero EMF
 Manual: e64f0697-6c78-4eb1-9358-387ab7ca7afd.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-dyn-6119-03-fs
 Description: 
-Capacity: 1-2 Person capacity Exterior dimensions (LWH): 36″ x 39″ x 75″ Interior dimensions (LWH): 32″ x 35″ x 68″ Heaters: 6 Total Heaters, 4 PureTech™ Near Zero EMF (EMF Under 3MG when sitting 2 to 3 inches from the heating elements) FAR IR Carbon Heating Panels, 2 Near IR Elements Infrared Heat Panel type: Near Zero EMF - (EMF Under 3MG - 2 to 3 inches from the heating panels) Material: Canadian Hemlock wood construction Door: Clear Tempered glass door Lighting (interior):  Interior Chromotherapy Color Lighting System + Red Light Therapy Feature Controls: Interior LED Control Panel Sound system: Bluetooth and MP3 auxiliary connection with built-in speaker Temperature: 118F-132F is the ideal temperature range, the sauna can heat up to 140F Electrical service: 120V/15amp Non GFCI plug & play (Recommended Dedicated Outlet) Straight-forward-assembly: Clasp together assembly Exhaust: Roof vent Usage type: Indoor use only Sauna weight: 255 lbs. Shipping weight: 315 lbs. Ships in: 2 boxes Model: DYN-6119-03-FS
+Product Category:
+Sauna
 
+Model:
+DYN-6119-03-FS
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+1–2 person capacity
+
+Exterior Dimensions:
+Length: 36″
+Width: 39″
+Height: 75″
+
+Interior Dimensions:
+Length: 32″
+Width: 35″
+Height: 68″
+
+Material:
+Canadian Hemlock wood construction
+
+Heating System:
+6 total heaters
+4 PureTech™ Near Zero EMF FAR IR Carbon Heating Panels
+2 Near IR Elements
+
+Infrared Heat Panel Type:
+Near Zero EMF
+EMF under 3MG when sitting 2 to 3 inches from the heating panels
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Near Zero EMF
+Under 3MG when sitting 2 to 3 inches from the heating elements
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speaker
+
+Controls:
+Interior LED Control Panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light therapy feature
+
+Glass / Door:
+Clear tempered glass door
+
+Ventilation / Exhaust:
+Roof vent
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Assembly:
+Clasp together assembly
+
+Sauna Weight:
+255 lbs
+
+Shipping Weight:
+315 lbs
+
+Shipping Details:
+Ships in 2 boxes
 
 Sauna: Dynamic "Heming Elite" FAR Infrared Sauna Ultra Low EMF Corner Unit with Hemlock Wood
 Capacity: 2
@@ -4844,7 +5078,84 @@ EMF: Ultra Low EMF
 Manual: e2807ed8-9ab4-4abb-9474-af2514e3afb9.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-dyn-6225-02-elite
 Description: 
-Exterior dimensions (WDH): 49" x 48" x 76" (roof overhang: add 2") Interior dimensions (WDH): 43" x 45" x 68" Sauna Type: Infrared Capacity: Full 2 person capacity Heating Elements: 7 Dynamic PureTech™ Ultra Low EMF (EMF under 3MG - 6 to 8 inches from the heating panels) FAR Infrared Carbon heating panels 2 on each of the 2 rear walls, 2 under the bench and 1 on the floor board Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Ultra Low EMF - (EMF Under 3MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior / Exterior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System Exterior Accent Lighting: (no details available) Feature Glass: Bronze Tinted Tempered glass door and with side windows Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Shipping Details: Ships in 3 box(s) • Box A: 69"" H x 47"" W x 6"" L | Weight: 165 lbs. • Box B: 69"" H x 29"" W x 6"" L | Weight: 165 lbs. • Box C: 49"" H x 47"" W x 11"" L | Weight: 132 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 49″
+Depth: 48″
+Height: 76″
+Note: Roof overhang adds 2″
+
+Interior Dimensions:
+Width: 43″
+Depth: 45″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+7 Dynamic PureTech™ Ultra Low EMF FAR Infrared Carbon heating panels
+2 heaters on each of the 2 rear walls
+2 heaters under the bench
+1 heater on the floor board
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Ultra Low EMF
+Under 3MG when sitting 6 to 8 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panel
+Exterior LED control panel
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+No details available
+
+Glass / Door:
+Bronze tinted tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 3 boxes
+
+Box A:
+Dimensions: 69″ H x 47″ W x 6″ L
+Weight: 165 lbs
+
+Box B:
+Dimensions: 69″ H x 29″ W x 6″ L
+Weight: 165 lbs
+
+Box C:
+Dimensions: 49″ H x 47″ W x 11″ L
+Weight: 132 lbs
 
 Sauna: Dynamic Full Spectrum "Cardoba" FAR Infrared Sauna Near Zero EMF with Hemlock Wood
 Capacity: 2
@@ -4854,7 +5165,83 @@ EMF: Near Zero EMF
 Manual: a8cd7728-a734-4ac4-aef9-0ebf7b2378b8.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-dyn-6203-02-fs
 Description: 
-Exterior dimensions (WDH): 46″ x 40″ x 75″ Interior dimensions (WDH): 42″ x 36″ x 68″ Sauna Type: Infrared Capacity: Full 2 person capacity Heating Elements: 7 Total Heaters, 4 PureTech™ Near Zero EMF (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) FAR IR Carbon Panels, 2 Near IR Elements. Temperature Range: 118F-132F is the ideal temperature range, sauna can heat up to 140F EMF Levels: Ultra Low EMF - (EMF Under 3MG - 6 to 8 inches from the heating panels) Wood Type: Natural Reforested Canadian Hemlock wood construction Sound System: Bluetooth and MP3 auxiliary connection with built in speakers Control Panels: Interior LED control panels Interior Lighting: Interior Chromotherapy Color Lighting System + Red Light Therapy Feature Exterior Accent Lighting: (no details available) Feature Glass: Clear Tempered glass door and with side Windows Electrical Service: 120 V/15 AMP Non GFCI plug & play (Recommend Dedicated Outlet) Use Location: Indoor Use Only Family Group: Dynamic Full Spectrum Shipping Details: Ships in 2 box(s) • Box A: 72"" H x 47"" W x 11"" L | Weight: 178 lbs. • Box B: 47"" H x 41"" W x 9"" L | Weight: 145 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Infrared
+
+Brand / Family Group:
+Dynamic Full Spectrum
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 2 person capacity
+
+Exterior Dimensions:
+Width: 46″
+Depth: 40″
+Height: 75″
+
+Interior Dimensions:
+Width: 42″
+Depth: 36″
+Height: 68″
+
+Material:
+Natural Reforested Canadian Hemlock wood construction
+
+Heating System:
+7 total heaters
+4 PureTech™ Near Zero EMF FAR IR Carbon Panels
+2 Near IR Elements
+Note: Heater count details list 6 heaters, but total heaters is stated as 7
+
+Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+EMF Levels:
+Ultra Low EMF
+Under 3MG when sitting 6 to 8 inches from the heating panels
+Heating panels also listed as Near Zero EMF under 2MG when sitting 2 to 3 inches from the heating panels
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Control Panels:
+Interior LED control panels
+
+Interior Lighting:
+Interior Chromotherapy Color Lighting System
+Red light therapy feature
+
+Exterior Lighting:
+No details available
+
+Glass / Door:
+Clear tempered glass door
+Side windows included
+
+Electrical Service:
+120V / 15 AMP
+Non-GFCI plug and play
+Dedicated outlet recommended
+
+Shipping Details:
+Ships in 2 boxes
+
+Box A:
+Dimensions: 72″ H x 47″ W x 11″ L
+Weight: 178 lbs
+
+Box B:
+Dimensions: 47″ H x 41″ W x 9″ L
+Weight: 145 lbs
 
 ## Traditional saunas
 
@@ -4865,7 +5252,62 @@ Series: GDI
 Manual: a5532c0c-7618-42a8-af73-82c38b57338a.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8202-01
 Description: 
-Capacity: 2 person capacity Indoor or outdoor: All Weather Exterior / Canadian Red Cedar Interior Lighting (interior): Interior Chromotherapy lighting system (Oversize) and Interior backrest with accent lighting Lighting (exterior): Exterior accent lighting Controls: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Material: Stainless steel hinge and handle Traditional heater: Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Electrical service: 30AMP / 240V (Please consult a certified electrician) Assembled Dimensions Exterior (W x D x H): 59.1" x 70.5" x 87.8" Assembled Dimensions Interior (W x D x H): 55.4" x 53.4 " x 75"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+2 person capacity
+
+Exterior Dimensions:
+Width: 59.1″
+Depth: 70.5″
+Height: 87.8″
+
+Interior Dimensions:
+Width: 55.4″
+Depth: 53.4″
+Height: 75″
+
+Material:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Heating System:
+Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Drammen" 3 Person Outdoor-Indoor Traditional Sauna
 Capacity: 3
@@ -4874,7 +5316,62 @@ Series: GDI
 Manual: cdac1405-d9e9-4625-b76d-c01dd49baff4.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8203-01
 Description: 
-Capacity: 3 person capacity Indoor or outdoor: All Weather Exterior / Canadian Red Cedar Interior Lighting (interior): Interior Chromotherapy lighting system (Oversize) and Interior backrest with accent lighting Lighting (exterior): Exterior accent lighting Controls: Touch Screen Control Panel \with built-in FM Radio and Bluetooth Connection Sound system: Built-in Performance Speakers Includes: Sandglass, thermometer, bucket, and scoop Material: Stainless steel hinge and handle Traditional heater: Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Electrical service: 30AMP / 240V (Please consult a certified electrician.) Assembled Dimensions Exterior (W x D x H): 79.2" x 70.5" x 87.8" Assembled Dimensions Interior (W x D x H): 75" x 53.4 " x 75"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions:
+Width: 79.2″
+Depth: 70.5″
+Height: 87.8″
+
+Interior Dimensions:
+Width: 75″
+Depth: 53.4″
+Height: 75″
+
+Material:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Heating System:
+Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Bergen" 6 Person Outdoor-Indoor Traditional Sauna
 Capacity: 6
@@ -4883,7 +5380,63 @@ Series: GDI
 Manual: 5df9f02e-50b4-437f-8a5e-131f49d15741.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8206-01
 Description: 
-Capacity: 6 person capacity Usage: All Weather Exterior / Canadian Red Cedar Interior Chromotherapy: Interior Chromotherapy lighting system (Oversize) Interior: backrest with accent lighting Lighting: Exterior accent lighting Controls: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Included: Sandglass, thermometer, bucket and scoop Construction: Stainless steel hinge and handle Heater: Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Electrical service: 40AMP / 240V and 120V / 15AMP (Please consult a certified electrician) Assembled Dimensions Exterior (W x D x H): 79.2" x 84.3" x 88.3" Assembled Dimensions Interior (W x D x H): 75" x 67.2" x 75"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+6 person capacity
+
+Exterior Dimensions:
+Width: 79.2″
+Depth: 84.3″
+Height: 88.3″
+
+Interior Dimensions:
+Width: 75″
+Depth: 67.2″
+Height: 75″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Heating System:
+Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+40 AMP / 240V
+120V / 15 AMP
+Certified electrician recommended
 
 Sauna: "Savonlinna" 3 Person Barn Outdoor Traditional Sauna
 Capacity: 3
@@ -4892,7 +5445,68 @@ Series: GDI
 Manual: d5c70a4b-ec35-4388-a68c-48d0e881e180.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8503-01
 Description: 
-Capacity: 3 person capacity Outdoor-ready: All Weather Exterior / Canadian Red Cedar Interior Lighting (special feature): Interior Ceiling Galaxy Star Color Therapy Lighting System. Also includes Interior rear wall accent lighting Controls: Interior LED Control Panel with built in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Includes: Sandglass, bucket, and scoop Construction: Black Stainless-steel hinge and handle Heater: Harvia Stove 8KW Traditional Sauna Stove with Built in Controls Electrical service: 240V / 40AMP (Stove) and 120V / 15AMP (Control for Lights and Music). Ships in 11 boxes Dimensions and weight Assembled Dimensions Exterior (W x D x H): 69" x 68" x 89" (Add 4” around for roof overhang) Assembled Dimensions Interior (W x D x H): 63" x 62" x 82" Assembled Weight: 1185 LBS Shipping Weight: 1385 LBS
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Outdoor-ready
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions:
+Width: 69″
+Depth: 68″
+Height: 89″
+Note: Add 4″ around for roof overhang
+
+Interior Dimensions:
+Width: 63″
+Depth: 62″
+Height: 82″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Black stainless-steel hinge and handle
+
+Heating System:
+Harvia Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Interior Ceiling Galaxy Star Color Therapy Lighting System
+Interior rear wall accent lighting
+
+Controls:
+Interior LED Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Bucket
+Scoop
+
+Electrical Service:
+240V / 40 AMP for stove
+120V / 15 AMP for lights and music controls
+
+Sauna Weight:
+1185 lbs
+
+Shipping Weight:
+1385 lbs
+
+Shipping Details:
+Ships in 11 boxes
 
 Sauna: "Kaarina" 6 Person Barn Outdoor Traditional Sauna
 Capacity: 6
@@ -4901,7 +5515,74 @@ Series: GDI
 Manual: 3309d5ee-9145-4108-9ec2-ffe318edc839.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8506-01
 Description: 
-Capacity: 6 person capacity Usage: All Weather Exterior / Canadian Red Cedar Interior Chromotherapy: Interior Chromotherapy lighting system (Oversize) Interior: backrest with accent lighting Lighting: Star Lights Interior Chromotherapy Color Lighting System & Exterior accent lighting Controls: Touch Screen Control Panel with built-in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Included: Sandglass, thermometer, bucket and scoop Construction: Stainless steel hinge and handle. Bronze privacy tempered glass door. Heater: Harvia Stove 8KW Traditional Sauna Stove with Built in Controls Traditional Stove: 170-185 is the ideal temperature range, sauna can heat up to 190F Electrical service: 240V / 40AMP (Stove) and 120V / 15AMP (Control for Lights and Music) (Please consult a certified electrician.) Assembled Dimensions Exterior (W x D x H): 69" x 84" x 95" (Add 4” around for roof overhang) Assembled Dimensions Interior (W x D x H): 63" x 78" x 88"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+6 person capacity
+
+Exterior Dimensions:
+Width: 69″
+Depth: 84″
+Height: 95″
+Note: Add 4″ around for roof overhang
+
+Interior Dimensions:
+Width: 63″
+Depth: 78″
+Height: 88″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Heating System:
+Harvia Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Temperature Range:
+Ideal temperature range: 170°F–185°F
+Maximum temperature: 190°F
+
+Interior Features:
+Backrest with accent lighting
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Star Lights Interior Chromotherapy Color Lighting System
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+240V / 40 AMP for stove
+120V / 15 AMP for lights and music controls
+Certified electrician recommended
 
 Sauna: "Hanko" 2-3 Person Traditional Sauna
 Capacity: 2-3
@@ -4910,7 +5591,56 @@ Series: GDI
 Manual: f1fb0fbc-79b2-4b78-beeb-c213ea2fb6bc.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-7202-01
 Description: 
-Capacity: 2-3 person capacity Material: 100% Natural Canadian Red Cedar Wood Interior / Canadian Hemlock Wood Exterior Chromotherapy: Interior Chromotherapy lighting system (Oversize) Lighting: Interior backrest with accent lighting Controls: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Music: Built in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Material: Stainless steel hinge and handle Heater: 2022-2023 Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Assembled Dimensions (W x D x H): 64" x 48" x 78" Assembled Weight: 450 LBS Shipping Weight: 510 LBS
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Capacity:
+2–3 person capacity
+
+Exterior Dimensions:
+Width: 64″
+Depth: 48″
+Height: 78″
+
+Interior Dimensions:
+Not specified
+
+Material / Construction:
+100% Natural Canadian Red Cedar wood interior
+Canadian Hemlock wood exterior
+Stainless steel hinge and handle
+
+Heating System:
+2022–2023 Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Sauna Weight:
+450 lbs
+
+Shipping Weight:
+510 lbs
 
 Sauna: "Kuusamo" 6 Person Traditional Sauna
 Capacity: 6
@@ -4919,7 +5649,56 @@ Series: GDI
 Manual: f1fb0fbc-79b2-4b78-beeb-c213ea2fb6bc.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-7206-01
 Description: 
-6 person capacity 100% Natural Canadian Red Cedar Wood Interior / Canadian Hemlock Wood Exterior Interior Chromotherapy lighting system (Oversize) Interior backrest with accent lighting Touch Screen Control Panel with built-in FM Radio and Bluetooth Connection Built-in Performance Speakers Sandglass, thermometer, bucket, and scoop Stainless steel hinge and handle 2022-2023 Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Assembled Dimensions (W x D x H): 77" x 67" x 82" Assembled Weight 650 LBS Shipping Weight 710 LBS
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Capacity:
+6 person capacity
+
+Exterior Dimensions:
+Width: 77″
+Depth: 67″
+Height: 82″
+
+Interior Dimensions:
+Not specified
+
+Material / Construction:
+100% Natural Canadian Red Cedar wood interior
+Canadian Hemlock wood exterior
+Stainless steel hinge and handle
+
+Heating System:
+2022–2023 Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Sauna Weight:
+650 lbs
+
+Shipping Weight:
+710 lbs
 
 Sauna: "Copenhagen" 3 Person Traditional Sauna
 Capacity: 3
@@ -4928,7 +5707,101 @@ Series: GDI
 Manual: 7af6100c-b5b2-4882-81f5-dab6fd250130.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-7389-01
 Description: 
-Assembled Dimensions (W x D x H): 80" x 58" x 78" Sauna Type: Traditional Capacity: Full 3 person capacity Heater: Harvia Stove 8KW Traditional Sauna Stove with Built in Controls Temperature Range: 180-198 is the ideal temperature range, sauna can heat up to 202F EMF Levels: No EMF on Traditional Wood Type: Natural Reforested Canadian Red Cedar wood construction Included: Sandglass, thermometer, bucket and scoop Sound System: Built in Performance Speakers Control Panels: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Interior Lighting: Interior ceiling galaxy star color therapy lighting system and white reading lamp Interior backrest with accent color therapy lighting system Exterior Accent Lighting: (no details available) Feature Glass: Clear Tempered glass door Electrical Service: 240 V/30 AMP direct conntect to stove Use Location: Indoor Use Only Shipping Details: Ships in 7 box(s) • Box A: 80" H x 81" W x 5" L | Weight: 240 lbs. • Box B: 80" H x 46" W x 7" L | Weight: 106 lbs. • Box C: 80" H x 59" W x 7" L | Weight: 130 lbs. • Box D : 78" H x 57" W x 9" L | Weight: 141 lbs. • Box E: 21" H x 26" W x 6" L | Weight: 10 lbs. • Box F : | Weight: 5 lbs. • Box G - Stove: 16" H x 12" W x 29" L | Weight: 41 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 3 person capacity
+
+Exterior Dimensions:
+Width: 80″
+Depth: 58″
+Height: 78″
+
+Interior Dimensions:
+Not specified
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+Harvia Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Temperature Range:
+Ideal temperature range: 180°F–198°F
+Maximum temperature: 202°F
+
+EMF Levels:
+No EMF on traditional sauna
+
+Interior Lighting:
+Interior ceiling galaxy star color therapy lighting system
+White reading lamp
+Interior backrest with accent color therapy lighting system
+
+Exterior Lighting:
+No details available
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Glass / Door:
+Clear tempered glass door
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+240V / 30 AMP
+Direct connection to stove required
+
+Shipping Details:
+Ships in 7 boxes
+
+Box A:
+Dimensions: 80″ H x 81″ W x 5″ L
+Weight: 240 lbs
+
+Box B:
+Dimensions: 80″ H x 46″ W x 7″ L
+Weight: 106 lbs
+
+Box C:
+Dimensions: 80″ H x 59″ W x 7″ L
+Weight: 130 lbs
+
+Box D:
+Dimensions: 78″ H x 57″ W x 9″ L
+Weight: 141 lbs
+
+Box E:
+Dimensions: 21″ H x 26″ W x 6″ L
+Weight: 10 lbs
+
+Box F:
+Dimensions: Not specified
+Weight: 5 lbs
+
+Box G:
+Item: Stove
+Dimensions: 16″ H x 12″ W x 29″ L
+Weight: 41 lbs
 
 Sauna: "Osla" 6 Person Traditional Sauna
 Capacity: 6
@@ -4937,7 +5810,105 @@ Series: GDI
 Manual: 7af6100c-b5b2-4882-81f5-dab6fd250130.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-7689-01
 Description: 
-Assembled Dimensions (W x D x H): 79" x 72" x 83" Sauna Type: Traditional Capacity: Full 6 person capacity Heating Elements: 8.0 kw Stove with built in controls Temperature Range: 180-198 is the ideal temperature range, sauna can heat up to 202F EMF Levels: No EMF on Traditional Wood Type: Natural Reforested Canadian Red Cedar wood construction Sound System: Built in Performance Speakers Control Panels: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Interior Lighting: Interior ceiling galaxy star color therapy lighting system and white reading lamp Interior backrest with accent color therapy lighting system Exterior Accent Lighting: (no details available) Feature Glass: Clear Tempered glass door Electrical Service: 240 V/30 AMP direct conntect to stove Use Location: Indoor Use Only Family Group: Golden Designs Traditional Shipping Details: Ships in 9 box(s) • Box A: 85" H x 81" W x 5" L | Weight: 262 lbs. • Box B: 85" H x 46" W x 7" L | Weight: 115 lbs. • Box C: 85" H x 39" W x 7" L | Weight: 95 lbs. • Box D: 85" H x 39" W x 7" L | Weight: 95 lbs. • Box E: 78" H x 72" W x 9" L | Weight: 159 lbs. • Box F: 78" H x 40" W x 5" L | Weight: 79 lbs. • Box G: 21" H x 26" W x 6" L | Weight: 10 lbs. • Box H: | Weight: 5 lbs. • Box I: - Stove: 16" H x 12" W x 29" L | Weight: 41 lbs.
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Brand / Family Group:
+Golden Designs Traditional
+
+Use Location:
+Indoor Use Only
+
+Capacity:
+Full 6 person capacity
+
+Exterior Dimensions:
+Width: 79″
+Depth: 72″
+Height: 83″
+
+Interior Dimensions:
+Not specified
+
+Material:
+Natural Reforested Canadian Red Cedar wood construction
+
+Heating System:
+8.0 KW stove
+Built-in stove controls
+
+Temperature Range:
+Ideal temperature range: 180°F–198°F
+Maximum temperature: 202°F
+
+EMF Levels:
+No EMF on traditional sauna
+
+Interior Lighting:
+Interior ceiling galaxy star color therapy lighting system
+White reading lamp
+Interior backrest with accent color therapy lighting system
+
+Exterior Lighting:
+No details available
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Glass / Door:
+Clear tempered glass door
+
+Electrical Service:
+240V / 30 AMP
+Direct connection to stove required
+
+Shipping Details:
+Ships in 9 boxes
+
+Box A:
+Dimensions: 85″ H x 81″ W x 5″ L
+Weight: 262 lbs
+
+Box B:
+Dimensions: 85″ H x 46″ W x 7″ L
+Weight: 115 lbs
+
+Box C:
+Dimensions: 85″ H x 39″ W x 7″ L
+Weight: 95 lbs
+
+Box D:
+Dimensions: 85″ H x 39″ W x 7″ L
+Weight: 95 lbs
+
+Box E:
+Dimensions: 78″ H x 72″ W x 9″ L
+Weight: 159 lbs
+
+Box F:
+Dimensions: 78″ H x 40″ W x 5″ L
+Weight: 79 lbs
+
+Box G:
+Dimensions: 21″ H x 26″ W x 6″ L
+Weight: 10 lbs
+
+Box H:
+Dimensions: Not specified
+Weight: 5 lbs
+
+Box I:
+Item: Stove
+Dimensions: 16″ H x 12″ W x 29″ L
+Weight: 41 lbs
 
 Sauna: "Vorarlberg" 5 Person Traditional Outdoor Sauna
 Capacity: 5
@@ -4946,7 +5917,68 @@ Series: GDI
 Manual: 1bbbd11e-a460-4cae-bc18-2c9ca8ef21ce.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8105-01
 Description: 
-Available with a pitch or flat roof. Capacity: 5 person capacity Material: 100% Natural Reforested Canadian Hemlock with Water Proof Stain on the Exterior Chromotherapy: Interior Chromotherapy lighting system Style: Interior backrest with accent lighting Exterior: front overhang accent lighting Controls: Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Included: Sandglass, thermometer, bucket and scoop Construction: Stainless steel hinge and handle Heater: Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Electrical service: 40AMP / 240V (Please consult a certified electrician.) Assembled Dimensions with Overhang (W x D x H): 98.9" x 72.6" x 97.4" Assembled Dimensions without Overhang (W x D x H): 78" x 56.7" x 97.4" Assembled Dimensions Interior (W x D x H): 74.2" x 53.2 " x 78"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Roof Options:
+Available with pitch roof
+Available with flat roof
+
+Capacity:
+5 person capacity
+
+Exterior Dimensions With Overhang:
+Width: 98.9″
+Depth: 72.6″
+Height: 97.4″
+
+Exterior Dimensions Without Overhang:
+Width: 78″
+Depth: 56.7″
+Height: 97.4″
+
+Interior Dimensions:
+Width: 74.2″
+Depth: 53.2″
+Height: 78″
+
+Material / Construction:
+100% Natural Reforested Canadian Hemlock
+Waterproof stain on the exterior
+Stainless steel hinge and handle
+
+Heating System:
+Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Front overhang accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+40 AMP / 240V
+Certified electrician recommended
 
 ## Hybrid saunas
 
@@ -4957,7 +5989,69 @@ Series: GDI
 Manual: 725bb5d3-da55-4693-b494-788f50ed15e2.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8222-01
 Description: 
-2 person capacity All Weather Exterior / Canadian Red Cedar Interior Interior Chromotherapy lighting system (Oversize) Interior backrest with accent lighting Exterior accent lighting Touch Screen Control Panel \with built in FM Radio and Bluetooth Connection Built in Performance Speakers Sandglass, thermometer, bucket and scoop Stainless steel hinge and handle Full Spectrum IR: Total 6 IR Emitters. 2 Carbon PureTech™ Near Zero EMF Heating Panels and 4 Near Infrared Heating Elements Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Electrical service: 30AMP / 240V (Please consult a certified electrician.) Assembled Dimensions Exterior (W x D x H): 59.1" x 70.5" x 87.8" Assembled Dimensions Interior (W x D x H): 55.4" x 53.4 " x 75"
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+2 person capacity
+
+Exterior Dimensions:
+Width: 59.1″
+Depth: 70.5″
+Height: 87.8″
+
+Interior Dimensions:
+Width: 55.4″
+Depth: 53.4″
+Height: 75″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Traditional Heating System:
+Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Infrared Heating System:
+6 total IR emitters
+2 Carbon PureTech™ Near Zero EMF heating panels
+4 Near Infrared heating elements
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Visby" 3 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
 Capacity: 3
@@ -4966,7 +6060,75 @@ Series: GDI
 Manual: e65a0f3f-8f0c-43db-9b5b-87c99ba5fbc9.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8223-01
 Description: 
-Capacity: 3 person capacity Indoor or outdoor: All Weather Exterior / Canadian Red Cedar Interior Lighting (interior): Interior Chromotherapy lighting system (oversize) and Interior backrest with accent lighting Lighting (exterior): Exterior accent lighting Controls: Touch Screen Control Panel with built-in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Material: Stainless steel hinge and handle Full Spectrum IR: Total 9 IR Emitters. 2 Carbon PureTech™ Near Zero EMF Heating Panels and 7 Near Infrared Heating Elements Traditional heater: Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Electrical service: 30AMP / 240V (Please consult a certified electrician) Assembled Dimensions Exterior (W x D x H): 79.2" x 70.5" x 87.8" Assembled Dimensions Interior (W x D x H): 75" x 53.4 " x 75" Assembled Weight 1,105 LBS Shipping Weight 1,420 LBS
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Use Location:
+Indoor or Outdoor Use
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions:
+Width: 79.2″
+Depth: 70.5″
+Height: 87.8″
+
+Interior Dimensions:
+Width: 75″
+Depth: 53.4″
+Height: 75″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Traditional Heating System:
+Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Infrared Heating System:
+9 total IR emitters
+2 Carbon PureTech™ Near Zero EMF heating panels
+7 Near Infrared heating elements
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
+
+Sauna Weight:
+1,105 lbs
+
+Shipping Weight:
+1,420 lbs
 
 Sauna: "Karlstad" 6 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
 Capacity: 6
@@ -4975,7 +6137,79 @@ Series: GDI
 Manual: 4b3d26f1-7f8f-488d-80c6-35ea1d717c19.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8226-01
 Description: 
-Capacity: 6 person capacity Outdoor-ready: All Weather Exterior / Canadian Red Cedar Interior Lighting (interior): Interior Chromotherapy lighting system (Oversize) & Interior backrest with accent lighting. Also includes red light therapy. Lighting (exterior): Exterior accent lighting Controls: Touch Screen Control Panel with built in FM Radio and Bluetooth Connection Speaker system: Built in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Contruction: Stainless steel hinge and handle Infrared heating: Full Spectrum IR: Total 13 IR Emitters. 4 Carbon PureTech™ Near Zero EMF Heating Panels and 9 Near Infrared Heating Elements Traditional heating: Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Traditional Stove: 170-185 is the ideal temperature range, sauna can heat up to 190F Full Spectrum IR: 118-132 is the ideal temperature range, sauna can heat up to 140F Electrical service: 40AMP / 240V (Please consult a certified electrician.) Assembled Dimensions Exterior (W x D x H): 79.2" x 84.3" x 88.3" Assembled Dimensions Interior (W x D x H): 75" x 67.2" x 75"
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Use Location:
+Outdoor-ready
+
+Capacity:
+6 person capacity
+
+Exterior Dimensions:
+Width: 79.2″
+Depth: 84.3″
+Height: 88.3″
+
+Interior Dimensions:
+Width: 75″
+Depth: 67.2″
+Height: 75″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Traditional Heating System:
+Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Infrared Heating System:
+Full Spectrum IR
+13 total IR emitters
+4 Carbon PureTech™ Near Zero EMF heating panels
+9 Near Infrared heating elements
+
+Traditional Sauna Temperature Range:
+Ideal temperature range: 170°F–185°F
+Maximum temperature: 190°F
+
+Infrared Sauna Temperature Range:
+Ideal temperature range: 118°F–132°F
+Maximum temperature: 140°F
+
+Interior Lighting:
+Oversize Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+Red light therapy included
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+40 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Carinthia" 3 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 3
@@ -4984,7 +6218,77 @@ Series: GDI
 Manual: 24520279-186b-4a40-959c-09584642e70b.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8123-01
 Description: 
-Available with pitched or flat roof Capacity: 3 person capacity Material: 100% Natural Reforested Canadian Hemlock with Water Proof Stain on the Exterior (Exterior Clear Water Protection Stain - Requires Annual Re-Apply) Chromotherapy: Interior Chromotherapy lighting system Interior lighting: Interior backrest with accent lighting Exterior lighting: Exterior front overhang accent lighting Controls: Touch Screen Control Panel with built-in FM Radio and Bluetooth Connection Sound: Built-in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Doors: Stainless steel hinge and handle Infrared heaters: Full Spectrum IR: Total 8 IR Emitters. 2 Carbon PureTech™ Near Zero EMF Heating Panels and 6 Near Infrared Heating Elements Traditional heater: Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Electrical: 30AMP / 240V (Please consult a certified electrician.) Assembled Dimensions with Overhang (W x D x H): 84.1" x 73.6" x 97.4" Assembled Dimensions without Overhang (W x D x H): 63" x 56.7" x 97.4" Assembled Dimensions Interior (W x D x H): 59.2" x 53.2 " x 78"
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Roof Options:
+Available with pitched roof
+Available with flat roof
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions With Overhang:
+Width: 84.1″
+Depth: 73.6″
+Height: 97.4″
+
+Exterior Dimensions Without Overhang:
+Width: 63″
+Depth: 56.7″
+Height: 97.4″
+
+Interior Dimensions:
+Width: 59.2″
+Depth: 53.2″
+Height: 78″
+
+Material / Construction:
+100% Natural Reforested Canadian Hemlock
+Waterproof stain on the exterior
+Exterior clear water protection stain requires annual re-apply
+Stainless steel hinge and handle
+
+Traditional Heating System:
+Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Infrared Heating System:
+Full Spectrum IR
+8 total IR emitters
+2 Carbon PureTech™ Near Zero EMF heating panels
+6 Near Infrared heating elements
+
+Interior Lighting:
+Interior Chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Exterior front overhang accent lighting
+
+Controls:
+Touch Screen Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Gargellen" 5 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 5
@@ -4993,7 +6297,90 @@ Series: GDI
 Manual: 24520279-186b-4a40-959c-09584642e70b.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8125-01
 Description: 
-Available with pitched or flat roof Capacity: 5 person capacity Material: 100% Natural Reforested Canadian Hemlock with Water Proof Stain on the Exterior: Exterior Clear Water Protection Stain (requires annual re-apply) Lighting: Interior chromotherapy lighting system and Interior backrest with accent lighting Exterior lighting: front overhang accent lighting Controls: Interior LED Control Panel with built in FM Station and Bluetooth Connection Sound system: Built in Performance Speakers Includes: Sandglass, bucket, and scoop Construction: Stainless steel hinge and handle Hybrid heating (infrared & traditional stove) Infrared (Full Spectrum IR): Total 10 IR Emitters. 4 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) and 6 Near Infrared Heat Emitters (Heating Elements) Traditional stove heater: Harvia "WALL" Stove 8KW Traditional Sauna Stove with Built in Controls Electrical service: 240V / 40AMP (Stove & Full Spectrum) (Please consult a certified electrician.) Dimensions Assembled Dimensions with Overhang (W x D x H): 98.9" x 72.6" x 97.4" Assembled Dimensions without Overhang (W x D x H): 78" x 56.7" x 97.4" Assembled Dimensions Interior (W x D x H): 74.2" x 53.2 " x 78" Weight Assembled Weight: 1075 LBS Shipping Weight: 1170 LBS Ships in 10 boxes
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Roof Options:
+Available with pitched roof
+Available with flat roof
+
+Capacity:
+5 person capacity
+
+Exterior Dimensions With Overhang:
+Width: 98.9″
+Depth: 72.6″
+Height: 97.4″
+
+Exterior Dimensions Without Overhang:
+Width: 78″
+Depth: 56.7″
+Height: 97.4″
+
+Interior Dimensions:
+Width: 74.2″
+Depth: 53.2″
+Height: 78″
+
+Material / Construction:
+100% Natural Reforested Canadian Hemlock
+Waterproof stain on the exterior
+Exterior clear water protection stain requires annual re-apply
+Stainless steel hinge and handle
+
+Hybrid Heating System:
+Infrared heating
+Traditional stove heating
+
+Infrared Heating System:
+Full Spectrum IR
+10 total IR emitters
+4 Carbon PureTech™ Near Zero EMF heat emitters / heating panels
+6 Near Infrared heat emitters / heating elements
+
+Traditional Heating System:
+Harvia “WALL” Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Interior chromotherapy lighting system
+Interior backrest with accent lighting
+
+Exterior Lighting:
+Front overhang accent lighting
+
+Controls:
+Interior LED Control Panel
+Built-in FM station
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Bucket
+Scoop
+
+Electrical Service:
+240V / 40 AMP
+For stove and full spectrum infrared system
+Certified electrician recommended
+
+Sauna Weight:
+1075 lbs
+
+Shipping Weight:
+1170 lbs
+
+Shipping Details:
+Ships in 10 boxes
 
 Sauna: "Kaskinen" 6 Person Barn Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 6
@@ -5002,7 +6389,81 @@ Series: GDI
 Manual: 5971a76d-cfc5-40dd-aa44-bdbbc905fe3e.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8526-01
 Description: 
-Capacity: 6 person capacity Built-for-Outdoors: All Weather Exterior / Canadian Red Cedar Interior Lighting: Interior Ceiling Galaxy Star Color Therapy Lighting System & Exterior accent lighting Controls: Interior LED Control Panel with built in FM Radio and Bluetooth Connection Sound system: Built in Performance Speakers Includes: Sandglass, thermometer, bucket and scoop Material: Stainless steel hinge and handle Heaters & heating systems: Full Spectrum IR: Total 15 IR Emitters. 7 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) and 8 Near Infrared Heat Emitters (Heating Elements) Traditional heating system: Harvia Stove 8KW Traditional Sauna Stove with Built in Controls Electrical service: 240V / 40AMP (Stove & Full Spectrum) (Please consult a certified electrician.) Assembled Dimensions Exterior (W x D x H): 69" x 84" x 95" (Add 4” around for roof overhang) Assembled Dimensions Interior (W x D x H): 63" x 78" x 88" Assembled Weight: 1575 LBS Shipping Weight: 1795 LBS
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Use Location:
+Built for Outdoor Use
+
+Capacity:
+6 person capacity
+
+Exterior Dimensions:
+Width: 69″
+Depth: 84″
+Height: 95″
+Note: Add 4″ around for roof overhang
+
+Interior Dimensions:
+Width: 63″
+Depth: 78″
+Height: 88″
+
+Material / Construction:
+All Weather Exterior
+Canadian Red Cedar Interior
+Stainless steel hinge and handle
+
+Hybrid Heating System:
+Infrared heating
+Traditional stove heating
+
+Infrared Heating System:
+Full Spectrum IR
+15 total IR emitters
+7 Carbon PureTech™ Near Zero EMF heat emitters / heating panels
+8 Near Infrared heat emitters / heating elements
+
+Traditional Heating System:
+Harvia Stove
+8KW traditional sauna stove
+Built-in stove controls
+
+Interior Lighting:
+Interior Ceiling Galaxy Star Color Therapy Lighting System
+
+Exterior Lighting:
+Exterior accent lighting
+
+Controls:
+Interior LED Control Panel
+Built-in FM radio
+Bluetooth connection
+
+Sound System:
+Built-in performance speakers
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+240V / 40 AMP
+For stove and full spectrum infrared system
+Certified electrician recommended
+
+Sauna Weight:
+1575 lbs
+
+Shipping Weight:
+1795 lbs
 
 Sauna: "Soria" 3 Person Hybrid Sauna (Indoor) Full Spectrum and Harvia Traditional Stove
 Capacity: 3
@@ -5011,7 +6472,88 @@ Series: GDI
 Manual: 06c8d80f-b1ba-4c4a-8dc7-44382b7df297.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-8330-01
 Description: 
-Exterior Dimensions (WDH): 65″ x 57″ x 75″ Interior Dimensions (WDH): 60″ x 50″ x 70″ 3 Person capacity Canadian Hemlock Wood Construction New Floating Bench Design 1 Himalayan Salt Bar Interior LED Control Panel with built in FM Station and Bluetooth Connection Bluetooth and MP3 Auxiliary Connection with Built in Speakers Oversize interior chromotherapy lighting system Full Spectrum IR: Total 8 IR Emitters, 5 Carbon PureTech™ Near Zero EMF Heat Emitters (Heating Panels) and 3 Near Infrared Heat Emitters (Heating Elements) Near Zero EMF - (EMF Under 2MG when sitting 2 to 3 inches from the heating panels) Harvia 6KW Traditional Sauna Stove with Built in Controls Electrical service: 240V / 30AMP (Stove & Full Spectrum) (Please consult a certified electrician.) Bronze Privacy Tempered Glass Door Roof and Side Vent (Fresh Air Circulation) Sauna Weight: 450 lbs. Shipping Weight: 675 lbs. Ships in 4 boxes
+Product Category:
+Sauna
+
+Sauna Type:
+Hybrid Sauna
+Traditional Sauna
+Full Spectrum Infrared Sauna
+
+Capacity:
+3 person capacity
+
+Exterior Dimensions:
+Width: 65″
+Depth: 57″
+Height: 75″
+
+Interior Dimensions:
+Width: 60″
+Depth: 50″
+Height: 70″
+
+Material:
+Canadian Hemlock wood construction
+
+Seating:
+New floating bench design
+
+Hybrid Heating System:
+Infrared heating
+Traditional stove heating
+
+Infrared Heating System:
+Full Spectrum IR
+8 total IR emitters
+5 Carbon PureTech™ Near Zero EMF heat emitters / heating panels
+3 Near Infrared heat emitters / heating elements
+
+Traditional Heating System:
+Harvia 6KW traditional sauna stove
+Built-in stove controls
+
+EMF Levels:
+Near Zero EMF
+Under 2MG when sitting 2 to 3 inches from the heating panels
+
+Special Feature:
+1 Himalayan Salt Bar
+
+Interior Lighting:
+Oversize interior chromotherapy lighting system
+
+Controls:
+Interior LED Control Panel
+Built-in FM station
+Bluetooth connection
+
+Sound System:
+Bluetooth
+MP3 auxiliary connection
+Built-in speakers
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Ventilation:
+Roof vent
+Side vent
+Fresh air circulation
+
+Electrical Service:
+240V / 30 AMP
+For stove and full spectrum infrared system
+Certified electrician recommended
+
+Sauna Weight:
+450 lbs
+
+Shipping Weight:
+675 lbs
+
+Shipping Details:
+Ships in 4 boxes
 
 ## Barrel saunas
 
@@ -5022,7 +6564,79 @@ Series: GDI
 Manual: da3213e1-59a8-4b32-8769-0ae1d07596e4.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-b002-01
 Description: 
-Assembled Exterior Dimensions (WDH): 81" x 60" x 81" Assembled Interior Dimensions (WDH): 78" x 51" x 78" Shipping Dimensions with Stove (WDH): 74" x 44" x 38" Shipping Dimensions without Stove (WDH): 74" x 44" x 25" 2 person capacity 6.0 kw Stove with built in controls (Optional Upgrade: 8kw Stove) Pacific Premium Cedar wood construction Bronze Privacy Tempered glass door Interior backrest with accent light Interior LED Control Panel for accent lighting Sandglass, bucket, and scoop Traditional Stove: 170-185 is the ideal temperature range, sauna can heat up to 190F Electrical service: 240V / 30AMP (6KW Stove) OR 240V / 40AMP (8KW Stove) and 120V / 15AMP (Control for Lights) (Please consult a certified electrician.) Outdoor Use Assembled Weight: 409 lbs Shipping Weight: 595 lbs with Stove & Stones/ 515 LBS without Stove & Stones Ships in 3 boxes
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Use Location:
+Outdoor Use
+
+Capacity:
+2 person capacity
+
+Exterior Dimensions:
+Width: 81″
+Depth: 60″
+Height: 81″
+
+Interior Dimensions:
+Width: 78″
+Depth: 51″
+Height: 78″
+
+Material:
+Pacific Premium Cedar wood construction
+
+Heating System:
+6.0 KW stove
+Built-in stove controls
+Optional upgrade: 8KW stove
+
+Temperature Range:
+Ideal temperature range: 170°F–185°F
+Maximum temperature: 190°F
+
+Interior Features:
+Interior backrest with accent light
+
+Controls:
+Interior LED Control Panel for accent lighting
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Included Accessories:
+Sandglass
+Bucket
+Scoop
+
+Electrical Service:
+240V / 30 AMP for 6KW stove
+240V / 40 AMP for optional 8KW stove
+120V / 15 AMP for light controls
+Certified electrician recommended
+
+Sauna Weight:
+409 lbs
+
+Shipping Weight:
+595 lbs with stove and stones
+515 lbs without stove and stones
+
+Shipping Dimensions With Stove:
+Width: 74″
+Depth: 44″
+Height: 38″
+
+Shipping Dimensions Without Stove:
+Width: 74″
+Depth: 44″
+Height: 25″
+
+Shipping Details:
+Ships in 3 boxes
 
 Sauna: "Arosa" 4 Person Barrel Traditional Sauna
 Capacity: 4
@@ -5031,7 +6645,44 @@ Series: GDI
 Manual: da3213e1-59a8-4b32-8769-0ae1d07596e4.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-b004-01
 Description: 
-4 person capacity Pacific Premium Cedar wood construction Interior backrest with accent lighting Sandglass, thermometer, bucket and scoop Stainless steel hinge and handle Harvia "WALL" Stove 6KW Traditional Sauna Stove with Built in Controls Electrical service: 30AMP / 240V (Please consult a certified electrician.) Assembled Dimensions (W x D x H): 75" x 73" x 80"
+Product Category:
+Sauna
+
+Sauna Type:
+Traditional Sauna
+
+Capacity:
+4 person capacity
+
+Exterior Dimensions:
+Width: 75″
+Depth: 73″
+Height: 80″
+
+Interior Dimensions:
+Not specified
+
+Material / Construction:
+Pacific Premium Cedar wood construction
+Stainless steel hinge and handle
+
+Heating System:
+Harvia “WALL” Stove
+6KW traditional sauna stove
+Built-in stove controls
+
+Interior Features:
+Interior backrest with accent lighting
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+30 AMP / 240V
+Certified electrician recommended
 
 Sauna: "Zurich" 4 Person Barrel with Bronze Privacy View Traditional Sauna
 Capacity: 4
@@ -5040,4 +6691,55 @@ Series: GDI
 Manual: 469c961e-1a69-4d9f-a3ab-f988ba453a65.pdf
 URL: https://goldendesignsaunas.com/products/golden-designs-sauna-gdi-b024-01
 Description: 
-"Zurich" 4-Person Barrel with Bronze Privacy View - Traditional Steam Sauna - Pacific Cedar This item will be delivered curbside only on a pallet by a freight carrier. Full 4-person capacity 6.0 KW Stove with built-in controls Pacific Premium Cedar Wood Construction Bronze privacy tempered glass door Interior backrest with accent white lighting system Touch Screen Control Panel for accent lighting Sandglass, thermometer, bucket, and scoop 180-198 is the ideal temperature range, the sauna can heat up to 202F Electrical service: 240 V/30 AMP direct contact with the stove Outdoor Use Full manufacturer's warranty included
+Product Category:
+Sauna
+
+Product Name:
+Zurich 4-Person Barrel with Bronze Privacy View
+
+Sauna Type:
+Traditional Steam Sauna
+
+Use Location:
+Outdoor Use
+
+Capacity:
+Full 4-person capacity
+
+Material:
+Pacific Premium Cedar wood construction
+
+Heating System:
+6.0 KW stove
+Built-in stove controls
+
+Temperature Range:
+Ideal temperature range: 180°F–198°F
+Maximum temperature: 202°F
+
+Control Panels:
+Touch Screen Control Panel for accent lighting
+
+Interior Features:
+Interior backrest
+Accent white lighting system
+
+Glass / Door:
+Bronze privacy tempered glass door
+
+Included Accessories:
+Sandglass
+Thermometer
+Bucket
+Scoop
+
+Electrical Service:
+240V / 30 AMP
+Direct connection to the stove required
+
+Delivery:
+Curbside delivery only
+Delivered on a pallet by freight carrier
+
+Warranty:
+Full manufacturer’s warranty included
