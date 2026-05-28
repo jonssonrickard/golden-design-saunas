@@ -3177,7 +3177,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Lugano" FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Lugano FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 3
 Model: DYN-6336-02 Elite
 Series: Dynamic
@@ -4537,7 +4537,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Vittoria" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Vittoria FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6220-01
 Series: Dynamic
@@ -4713,7 +4713,7 @@ Box C:
 Dimensions: 46″ H x 49″ W x 10″ L
 Weight: 133 lbs
 
-Sauna: Dynamic "Lugano" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Lugano FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 3
 Model: DYN-6336-02
 Series: Dynamic
@@ -4891,7 +4891,7 @@ Box C:
 Dimensions: 63″ H x 46″ W x 11″ L
 Weight: 139 lbs
 
-Sauna: Dynamic "Heming" FAR Infrared Sauna Low EMF Corner Unit with Hemlock Wood
+Sauna: Dynamic Heming FAR Infrared Sauna Low EMF Corner Unit with Hemlock Wood
 Capacity: 2
 Model: DYN-6225-02
 Series: Dynamic
@@ -5581,7 +5581,7 @@ Electrical Service:
 120V / 15 AMP for lights and music controls
 Certified electrician recommended
 
-Sauna: "Hanko" 2-3 Person Traditional Sauna
+Sauna: Hanko 2-3 Person Traditional Sauna
 Capacity: 2-3
 Model: GDI-7202-01
 Series: GDI
