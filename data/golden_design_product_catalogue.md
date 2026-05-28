@@ -1,7 +1,7 @@
 ## Infrared saunas
 
 Sauna: 
-Full Spectrum "Reserve Edition" Infrared Sauna Near Zero EMF with Himalayan Salt Bar
+Full Spectrum Reserve Edition Infrared Sauna Near Zero EMF with Himalayan Salt Bar
 
 Capacity: 
 1-2
@@ -99,7 +99,7 @@ Dedicated outlet recommended
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Full Spectrum "Reserve Edition" Infrared Sauna Near Zero EMF with Himalayan Salt Bar (2025 model)
+Sauna: Full Spectrum Reserve Edition Infrared Sauna Near Zero EMF with Himalayan Salt Bar (2025 model)
 Capacity: 2
 Model: GDI-8020-03
 Series: GDI
@@ -497,7 +497,7 @@ Additional Notes:
 Details coming soon
 Contact supplier for more details
 
-Sauna: "Monaco" PureTech™ Infrared Sauna Near Zero EMF with 15” LCD Screen & Hemlock Wood
+Sauna: Monaco PureTech™ Infrared Sauna Near Zero EMF with 15” LCD Screen & Hemlock Wood
 Capacity: 6
 Model: GDI-6996-01 Elite
 Series: GDI
@@ -601,7 +601,7 @@ Box E:
 Dimensions: 67″ H x 15″ W x 2″ L
 Weight: 143 lbs
 
-Sauna: Dynamic "Catalonia" Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Catalonia Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 8
 Model: GDI-6880-02 Elite
 Series: GDI
@@ -979,7 +979,7 @@ Box C:
 Dimensions: 72″ H x 52″ W x 13″ L
 Weight: 135 lbs
 
-Sauna: Maxxus "Chaumont Edition" FAR Infrared Sauna Near Zero EMF Corner Unit Hemlock Wood
+Sauna: Maxxus Chaumont Edition FAR Infrared Sauna Near Zero EMF Corner Unit Hemlock Wood
 Capacity: 3
 Model: MX-K356-01-ZF
 Series: Maxxus
@@ -1059,9 +1059,6 @@ Shipping Weight:
 
 Shipping Details:
 Ships in 3 boxes
-
-Additional Notes:
-“Why not hotter? Learn more” text removed because it is marketing/navigation text, not product data
 
 Sauna: Maxxus FAR Infrared Sauna Low EMF with Red Cedar Wood
 Capacity: 3
@@ -1590,7 +1587,7 @@ Box C:
 Dimensions: 72″ H x 52″ W x 13″ L
 Weight: 135 lbs
 
-Sauna: Maxxus "Chaumont Edition" FAR Infrared Sauna Near Zero EMF Corner Unit with Red Cedar Wood
+Sauna: Maxxus Chaumont Edition FAR Infrared Sauna Near Zero EMF Corner Unit with Red Cedar Wood
 Capacity: 3
 Model: MX-K356-01-ZF CED
 Series: Maxxus
@@ -1928,7 +1925,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Maxxus "Seattle" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Maxxus Seattle FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: MX-J206-01
 Series: Maxxus
@@ -2086,7 +2083,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Maxxus "Seattle" FAR Infrared Sauna Near Zero EMF with Canadian Hemlock 
+Sauna: Maxxus Seattle FAR Infrared Sauna Near Zero EMF with Canadian Hemlock 
 Capacity: 2
 Model: MX-J206-01-ZF
 Series: Maxxus
@@ -2182,7 +2179,7 @@ Box B:
 Dimensions: 52″ H x 50″ W x 13″ L
 Weight: 88 lbs
 
-Sauna: MX-LS2-01 Maxxus "Serenity" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: MX-LS2-01 Maxxus Serenity FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: MX-LS2-01
 Series: Maxxus
@@ -2264,7 +2261,7 @@ Box B:
 Dimensions: 49″ H x 41″ W x 10″ L
 Weight: 99 lbs
 
-Sauna: "Aspen" Maxxus FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Aspen Maxxus FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: MX-J206-02S
 Series: Maxxus
@@ -2346,7 +2343,7 @@ Box B:
 Dimensions: 49″ H x 42″ W x 10″ L
 Weight: 86 lbs
 
-Sauna: Maxxus "Bellevue" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Maxxus Bellevue FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 3
 Model: MX-J306-01
 Series: Maxxus
@@ -2433,7 +2430,7 @@ Box C:
 Dimensions: 63″ H x 42.5″ W x 9″ L
 Weight: 88 lbs
 
-Sauna: Maxxus "Toulouse" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Maxxus Toulouse FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: MX-K206-01
 Series: Maxxus
@@ -2590,7 +2587,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Maxxus "Bellevue" FAR Infrared Sauna Low EMF with Canadian Hemlock
+Sauna: Maxxus Bellevue FAR Infrared Sauna Low EMF with Canadian Hemlock
 Capacity: 3
 Model: MX-J306-01-ZF
 Series: Maxxus
@@ -3012,7 +3009,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Dynamic "Bergamo" Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Bergamo Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 4
 Model: DYN-6440-01
 Series: Dynamic
@@ -3098,7 +3095,7 @@ Box Carton:
 Dimensions: Not specified
 Weight: Not specified
 
-Sauna: Dynamic Full Spectrum "Santiago" FAR Infrared Sauna Near Zero EMF with Dark Honey Hemlock Wood
+Sauna: Dynamic Full Spectrum Santiago FAR Infrared Sauna Near Zero EMF with Dark Honey Hemlock Wood
 Capacity: 2
 Model: DYN-6209-03 FS
 Series: Dynamic
@@ -3269,7 +3266,7 @@ Box C:
 Dimensions: 62″ H x 51″ W x 11″ L
 Weight: 148 lbs
 
-Sauna: Dynamic Full Spectrum "Lugano" FAR Infrared Sauna Near Zero EMF with Hemlock Wood
+Sauna: Dynamic Full Spectrum Lugano FAR Infrared Sauna Near Zero EMF with Hemlock Wood
 Capacity: 3
 Model: DYN-6336-03 FS
 Series: Dynamic
@@ -3358,7 +3355,7 @@ Box C:
 Dimensions: 62″ H x 51″ W x 11″ L
 Weight: 148 lbs
 
-Sauna: Dynamic "Bergamo Elite" Infrared Sauna Ultra Low EMF with Canadian Hemlock
+Sauna: Dynamic Bergamo Elite Infrared Sauna Ultra Low EMF with Canadian Hemlock
 Capacity: 4
 Model: DYN-6440-01 Elite
 Series: Dynamic
@@ -3449,7 +3446,7 @@ Box Carton:
 Dimensions: Not specified
 Weight: Not specified
 
-Sauna: Dynamic "Monaco" Elite Infrared Sauna Ultra Low EMF wtih 15” LCD Screen & Hemlock Wood
+Sauna: Dynamic Monaco Elite Infrared Sauna Ultra Low EMF wtih 15” LCD Screen & Hemlock Wood
 Capacity: 6
 Model: DYN-6996-01 Elite
 Series: Dynamic
@@ -3544,7 +3541,7 @@ Box E:
 Dimensions: 67″ H x 15″ W x 2″ L
 Weight: 143 lbs
 
-Sauna: Dynamic "Avila" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Avila FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 1-2
 Model: DYN-6103-01
 Series: Dynamic
@@ -3627,7 +3624,7 @@ Box A:
 Dimensions: 72″ H x 35″ W x 12″ L
 Weight: 176 lbs
 
-Sauna: Dynamic "Gracia" Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Gracia Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 1-2
 Model: DYN-6119-01
 Series: Dynamic
@@ -3708,7 +3705,7 @@ Box B:
 Dimensions: Not specified
 Weight: Not specified
 
-Sauna: Dynamic "Barcelona" FAR Infrared Sauna Ultra Low EMF with Canadian Hemlock
+Sauna: Dynamic Barcelona FAR Infrared Sauna Ultra Low EMF with Canadian Hemlock
 Capacity: 1-2
 Model: DYN-6106-01 Elite
 Series: Dynamic
@@ -3788,7 +3785,7 @@ Box A:
 Dimensions: 72″ H x 35″ W x 12″ L
 Weight: 250 lbs
 
-Sauna: Dynamic "Cardoba" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Cardoba FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6203-01
 Series: Dynamic
@@ -3870,7 +3867,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Santiago" Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Santiago Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6209-01
 Series: Dynamic
@@ -3953,7 +3950,7 @@ Box B:
 Dimensions: 45″ H x 39″ W x 9″ L
 Weight: 121 lbs
 
-Sauna: Dynamic "Avila Elite" FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Avila Elite FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 1-2
 Model: DYN-6103-01 Elite
 Series: Dynamic
@@ -4035,7 +4032,7 @@ Box A:
 Dimensions: 72″ H x 35″ W x 12″ L
 Weight: 176 lbs
 
-Sauna: Dynamic "Barcelona Elite" FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Barcelona Elite FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 1-2
 Model: DYN-6106-01 Elite
 Series: Dynamic
@@ -4116,7 +4113,7 @@ Box A:
 Dimensions: 72″ H x 35″ W x 12″ L
 Weight: 250 lbs
 
-Sauna: Dynamic "San Marino" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic San Marino FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6206-01
 Series: Dynamic
@@ -4200,7 +4197,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Versailles" FAR Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Versailles FAR Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6202-03
 Series: Dynamic
@@ -4284,7 +4281,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Cardoba Elite" FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Cardoba Elite FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6203-01 Elite
 Series: Dynamic
@@ -4368,7 +4365,7 @@ Box B:
 Dimensions: 47″ H x 41″ W x 9″ L
 Weight: 145 lbs
 
-Sauna: Dynamic "Venice" Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Venice Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6210-01
 Series: Dynamic
@@ -4456,7 +4453,7 @@ Box C:
 Dimensions: 46″ H x 49″ W x 10″ L
 Weight: 133 lbs
 
-Sauna: Dynamic "San Marino Elite" FAR Infrared Sauna Ultra Low EMF with Dark Honey Hemlock Wood
+Sauna: Dynamic San Marino Elite FAR Infrared Sauna Ultra Low EMF with Dark Honey Hemlock Wood
 Capacity: 2
 Model: DYN-6206-01 Elite
 Series: Dynamic
@@ -4628,7 +4625,7 @@ Box C:
 Dimensions: 46″ H x 49″ W x 10″ L
 Weight: 133 lbs
 
-Sauna: Dynamic "Venice Elite" FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
+Sauna: Dynamic Venice Elite FAR Infrared Sauna Ultra Low EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6210-01 Elite
 Series: Dynamic
@@ -4805,7 +4802,7 @@ Box C:
 Dimensions: 62″ H x 51″ W x 11″ L
 Weight: 148 lbs
 
-Sauna: Dynamic "Bellagio" Infrared Sauna Low EMF with Hemlock Wood
+Sauna: Dynamic Bellagio Infrared Sauna Low EMF with Hemlock Wood
 Capacity: 3
 Model: DYN-6306-02
 Series: Dynamic
@@ -4982,7 +4979,7 @@ Box C:
 Dimensions: 49″ H x 47″ W x 11″ L
 Weight: 132 lbs
 
-Sauna: Dynamic "Gracia" Infrared Sauna Full Spectrum with Canadian Hemlock
+Sauna: Dynamic Gracia Infrared Sauna Full Spectrum with Canadian Hemlock
 Capacity: 1-2
 Model: DYN-6119-03 FS
 Series: Dynamic
@@ -5070,7 +5067,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 2 boxes
 
-Sauna: Dynamic "Heming Elite" FAR Infrared Sauna Ultra Low EMF Corner Unit with Hemlock Wood
+Sauna: Dynamic Heming Elite FAR Infrared Sauna Ultra Low EMF Corner Unit with Hemlock Wood
 Capacity: 2
 Model: DYN-6225-02 Elite
 Series: Dynamic
@@ -5157,7 +5154,7 @@ Box C:
 Dimensions: 49″ H x 47″ W x 11″ L
 Weight: 132 lbs
 
-Sauna: Dynamic Full Spectrum "Cardoba" FAR Infrared Sauna Near Zero EMF with Hemlock Wood
+Sauna: Dynamic Full Spectrum Cardoba FAR Infrared Sauna Near Zero EMF with Hemlock Wood
 Capacity: 2
 Model: DYN-6203-02 FS
 Series: Dynamic
@@ -5245,7 +5242,7 @@ Weight: 145 lbs
 
 ## Traditional saunas
 
-Sauna: "Narvik" 2 Person Outdoor-Indoor Traditional Sauna
+Sauna: Narvik 2 Person Outdoor-Indoor Traditional Sauna
 Capacity: 2
 Model: GDI-8202-01
 Series: GDI
@@ -5309,7 +5306,7 @@ Electrical Service:
 30 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Drammen" 3 Person Outdoor-Indoor Traditional Sauna
+Sauna: Drammen 3 Person Outdoor-Indoor Traditional Sauna
 Capacity: 3
 Model: GDI-8203-01
 Series: GDI
@@ -5373,7 +5370,7 @@ Electrical Service:
 30 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Bergen" 6 Person Outdoor-Indoor Traditional Sauna
+Sauna: Bergen 6 Person Outdoor-Indoor Traditional Sauna
 Capacity: 6
 Model: GDI-8206-01
 Series: GDI
@@ -5438,7 +5435,7 @@ Electrical Service:
 120V / 15 AMP
 Certified electrician recommended
 
-Sauna: "Savonlinna" 3 Person Barn Outdoor Traditional Sauna
+Sauna: Savonlinna 3 Person Barn Outdoor Traditional Sauna
 Capacity: 3
 Model: GDI-8503-01
 Series: GDI
@@ -5508,7 +5505,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 11 boxes
 
-Sauna: "Kaarina" 6 Person Barn Outdoor Traditional Sauna
+Sauna: Kaarina 6 Person Barn Outdoor Traditional Sauna
 Capacity: 6
 Model: GDI-8506-01
 Series: GDI
@@ -5642,7 +5639,7 @@ Sauna Weight:
 Shipping Weight:
 510 lbs
 
-Sauna: "Kuusamo" 6 Person Traditional Sauna
+Sauna: Kuusamo 6 Person Traditional Sauna
 Capacity: 6
 Model: GDI-7206-01
 Series: GDI
@@ -5700,7 +5697,7 @@ Sauna Weight:
 Shipping Weight:
 710 lbs
 
-Sauna: "Copenhagen" 3 Person Traditional Sauna
+Sauna: Copenhagen 3 Person Traditional Sauna
 Capacity: 3
 Model: GDI-7389-02
 Series: GDI
@@ -5803,7 +5800,7 @@ Item: Stove
 Dimensions: 16″ H x 12″ W x 29″ L
 Weight: 41 lbs
 
-Sauna: "Osla" 6 Person Traditional Sauna
+Sauna: Osla 6 Person Traditional Sauna
 Capacity: 6
 Model: GDI-7689-02
 Series: GDI
@@ -5910,7 +5907,7 @@ Item: Stove
 Dimensions: 16″ H x 12″ W x 29″ L
 Weight: 41 lbs
 
-Sauna: "Vorarlberg" 5 Person Traditional Outdoor Sauna
+Sauna: Vorarlberg 5 Person Traditional Outdoor Sauna
 Capacity: 5
 Model: GDI-8105-01
 Series: GDI
@@ -5982,7 +5979,7 @@ Certified electrician recommended
 
 ## Hybrid saunas
 
-Sauna: "Nora" 2 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
+Sauna: Nora 2 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
 Capacity: 2
 Model: GDI-8222-01
 Series: GDI
@@ -6053,7 +6050,7 @@ Electrical Service:
 30 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Visby" 3 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
+Sauna: Visby 3 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
 Capacity: 3
 Model: GDI-8223-01
 Series: GDI
@@ -6130,7 +6127,7 @@ Sauna Weight:
 Shipping Weight:
 1,420 lbs
 
-Sauna: "Karlstad" 6 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
+Sauna: Karlstad 6 Person Outdoor-Indoor PureTech™ Hybrid Full Spectrum Sauna
 Capacity: 6
 Model: GDI-8226-01
 Series: GDI
@@ -6211,7 +6208,7 @@ Electrical Service:
 40 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Carinthia" 3 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
+Sauna: Carinthia 3 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 3
 Model: GDI-8123-01
 Series: GDI
@@ -6290,7 +6287,7 @@ Electrical Service:
 30 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Gargellen" 5 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
+Sauna: Gargellen 5 Person Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 5
 Model: GDI-8125-01
 Series: GDI
@@ -6382,7 +6379,7 @@ Shipping Weight:
 Shipping Details:
 Ships in 10 boxes
 
-Sauna: "Kaskinen" 6 Person Barn Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
+Sauna: Kaskinen 6 Person Barn Hybrid (PureTech™ Full Spectrum IR or Traditional Stove) Outdoor Sauna
 Capacity: 6
 Model: GDI-8526-01
 Series: GDI
@@ -6465,7 +6462,7 @@ Sauna Weight:
 Shipping Weight:
 1795 lbs
 
-Sauna: "Soria" 3 Person Hybrid Sauna (Indoor) Full Spectrum and Harvia Traditional Stove
+Sauna: Soria 3 Person Hybrid Sauna (Indoor) Full Spectrum and Harvia Traditional Stove
 Capacity: 3
 Model: GDI-8330-01
 Series: GDI
@@ -6557,7 +6554,7 @@ Ships in 4 boxes
 
 ## Barrel saunas
 
-Sauna: "St. Moritz" 2 Person Barrel Traditional Sauna
+Sauna: St. Moritz 2 Person Barrel Traditional Sauna
 Capacity: 2
 Model: GDI-B002-01
 Series: GDI
@@ -6638,7 +6635,7 @@ Height: 25″
 Shipping Details:
 Ships in 3 boxes
 
-Sauna: "Arosa" 4 Person Barrel Traditional Sauna
+Sauna: Arosa 4 Person Barrel Traditional Sauna
 Capacity: 4
 Model: GDI-B004-01
 Series: GDI
