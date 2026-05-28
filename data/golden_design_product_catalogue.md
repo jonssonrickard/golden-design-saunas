@@ -6681,7 +6681,7 @@ Electrical Service:
 30 AMP / 240V
 Certified electrician recommended
 
-Sauna: "Zurich" 4 Person Barrel with Bronze Privacy View Traditional Sauna
+Sauna: Zurich 4 Person Barrel with Bronze Privacy View Traditional Sauna
 Capacity: 4
 Model: GDI-B024-01
 Series: GDI
